@@ -1,0 +1,17 @@
+{
+  "version": "1.8.0",
+  "date": "2026-11-19",
+  "title": "Secure AI-assisted plant image triage foundation",
+  "changes": [
+    "Added a server-side /api/diagnose endpoint using configurable OpenAI-compatible multimodal providers.",
+    "Added plant image analysis UI with symptom metadata, differential candidates, evidence gaps, safe next steps, and uncertainty notes.",
+    "Added server-only environment configuration: AI_API_KEY, AI_BASE_URL, AI_MODEL.",
+    "Added strict image MIME/size validation, no-store response headers, sanitized structured output, and no chemical dosage recommendations.",
+    "Diagnosis records can save the analysis result locally alongside the image and symptoms.",
+    "Updated deployment and privacy documentation."
+  ],
+  "not_enabled_until_configured": [
+    "Live AI analysis requires a compatible multimodal provider, valid environment variables, and deployment of serverless functions.",
+    "No provider or model has been selected or activated by the user yet."
+  ]
+}

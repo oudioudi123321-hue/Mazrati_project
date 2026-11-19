@@ -1,0 +1,26 @@
+{
+  "version": "1.8.1",
+  "date": "2026-11-19",
+  "checks": {
+    "diagnose_endpoint_javascript_syntax": "PASS",
+    "inline_javascript_syntax": "PASS",
+    "weather_endpoint_javascript_syntax": "PASS",
+    "vercel_json_parse": "PASS",
+    "diagnose_method_guard": "PASS",
+    "missing_gemini_key_returns_503": "PASS",
+    "invalid_image_rejected": "PASS",
+    "mocked_gemini_native_request_shape": "PASS",
+    "gemini_response_json_normalization": "PASS",
+    "confidence_values_clamped_0_to_100": "PASS",
+    "plant_database_json_files": "PASS",
+    "plant_catalogue_count_150": "PASS",
+    "profile_data_files_present": "PASS"
+  },
+  "limitations": [
+    "No real Gemini API request was sent because the user has not configured GEMINI_API_KEY; no API key was requested or stored.",
+    "No real plant image inference or field validation was performed.",
+    "Browser/mobile end-to-end test remains unavailable in this runtime.",
+    "Gemini Free Tier data-use terms differ from Paid Tier; users should review Google terms before submitting private material.",
+    "Model confidence is an uncalibrated estimate and must not be treated as a validated probability."
+  ]
+}

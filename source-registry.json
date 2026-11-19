@@ -1,0 +1,1928 @@
+{
+  "version": "1.31.0",
+  "sources": {
+    "SRC-MOSUL-VEG": {
+      "publisher": "جامعة الموصل – كلية الزراعة والغابات",
+      "title": "إنتاج خضر نظري – محاضرات جامعية (2020)",
+      "url_or_identifier": "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+      "published_year": 2020,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "الاسم العلمي والتصنيف النباتي",
+        "مواعيد الزراعة المحلية لبعض الخضروات في العراق",
+        "طرق الإكثار والشتل",
+        "إرشادات الري ومراحل النمو والحصاد",
+        "الأمراض والاضطرابات الفسيولوجية المذكورة في المحاضرات"
+      ]
+    },
+    "SRC-FAO-WATER": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "Crop Water Needs – Chapter 3, Irrigation Water Management Training Manual",
+      "url_or_identifier": "https://www.fao.org/4/S2022E/s2022e07.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مبدأ ETc = ETo × Kc",
+        "تأثير المناخ ونوع المحصول ومرحلة النمو على الاحتياج المائي",
+        "الحاجة إلى بيانات محلية لتحديد طول الموسم والاحتياج المائي وعدم اعتماد المتوسطات العامة بديلاً عن الملاحظة المحلية"
+      ]
+    },
+    "SRC-IJS-IRAQ-SEASONS": {
+      "publisher": "Iraqi Journal of Science",
+      "title": "Investigate the Optimum Agricultural Crops Production Seasons in Salah Al-Din Governorate Utilizing Climate Remote Sensing Data and Agro-Climatic Zoning",
+      "url_or_identifier": "https://doi.org/10.24996/ijs.2019.60.9.24",
+      "published_year": 2019,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "تأثير المناخ ودرجات الحرارة على مواسم إنتاج الطماطم والخيار والباذنجان والفلفل والبطاطا والكوسة والبطيخ والشمام والبصل والثوم في صلاح الدين",
+        "ضرورة عدم تعميم مواعيد محافظة واحدة على جميع مناطق العراق"
+      ]
+    },
+    "SRC-BAYER-TOMATO-IQ": {
+      "publisher": "Bayer Crop Science – Iraq",
+      "title": "الطماطم – معلومات المحصول في العراق",
+      "url_or_identifier": "https://www.iq.cropscience.bayer.com/ar-iq/crops/tomato.html",
+      "published_year": 2021,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مناطق إنتاج الطماطم في العراق عبر الفصول",
+        "مدى ملاءمة التربة والصرف والملوحة",
+        "حساسية المحصول للحرارة المرتفعة",
+        "الري والتغذية والحصاد"
+      ]
+    },
+    "SRC-BAYER-POTATO-IQ": {
+      "publisher": "Bayer Crop Science – Iraq",
+      "title": "Potato – Crop information for Iraq",
+      "url_or_identifier": "https://www.iq.cropscience.bayer.com/en-iq/crops/potato.html",
+      "published_year": 2021,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مناطق زراعة البطاطا في العراق",
+        "حساسية المحصول للملوحة وسوء الصرف",
+        "الري في العروتين الربيعية والخريفية",
+        "ضرورة تحليل التربة قبل وضع برنامج التسميد"
+      ]
+    },
+    "SRC-IRR-MID-IRAQ-2026": {
+      "publisher": "Euphrates Journal of Agricultural Science",
+      "title": "Optimizing Irrigation Water Use for Tomato & Potato to Save Water in Middle of Iraq",
+      "url_or_identifier": "https://ejs-agri.com/index.php/EJAS/article/view/538",
+      "published_year": 2026,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "أهمية ضبط ري الطماطم والبطاطا في وسط العراق وفق البخر-نتح ورطوبة التربة والمناخ",
+        "زيادة أهمية توفر الماء خلال التزهير والإثمار"
+      ]
+    },
+    "SRC-HILLAH-CLIMATE": {
+      "publisher": "NASA POWER climate data (as presented by Safe to Plant)",
+      "title": "Al Hillah, Babil – climate-based planting calendar and historical temperature/rainfall context",
+      "url_or_identifier": "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مؤشرات مناخ الحلة التاريخية كخلفية تخطيطية لمواعيد الزراعة",
+        "ليست توصية زراعية رسمية ولا بديلاً عن حرارة التربة والتوقعات والاختبارات الحقلية"
+      ]
+    },
+    "SRC-FAO-CROPWATER": {
+      "publisher": "FAO",
+      "title": "Crop Water Needs – Chapter 3: Crop factors and growing periods",
+      "url_or_identifier": "https://www.fao.org/4/S2022E/s2022e07.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "قيم Kc التقريبية ومدة نمو المحاصيل ومبدأ ETc = ETo × Kc؛ تتغير حسب الصنف والمناخ والموعد."
+      ]
+    },
+    "SRC-FAO-IRAQ-CROPPROTECT": {
+      "publisher": "FAO",
+      "title": "Iraq – Crop Production and Protection",
+      "url_or_identifier": "https://www.fao.org/4/y9870e/y9870e07.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مواسم الزراعة الشتوية والصيفية في العراق",
+        "قائمة محاصيل الخضر الرئيسية في العراق"
+      ]
+    },
+    "SRC-FAO-KC-VEG": {
+      "publisher": "FAO",
+      "title": "Chapter 6 – ETc: Single crop coefficient (Kc)",
+      "url_or_identifier": "https://www.fao.org/4/X0490E/x0490e0b.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "قيم Kc المرجعية للفاصوليا الخضراء والبقوليات والقرعيات والشمام والبطيخ"
+      ]
+    },
+    "SRC-IJS-SEASONS": {
+      "publisher": "Iraqi Journal of Science",
+      "title": "Investigate the Optimum Agricultural Crops Production Seasons in Salah Al-Din Governorate Utilizing Climate Remote Sensing Data and Agro-Climatic Zoning",
+      "url_or_identifier": "https://doi.org/10.24996/ijs.2019.60.9.24",
+      "published_year": 2019,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مواسم الكوسة والبطيخ والشمام في دراسة مناخية عراقية؛ لا تعمم تواريخ صلاح الدين على بابل"
+      ]
+    },
+    "SRC-964-OKRA": {
+      "publisher": "964media",
+      "title": "Winter okra farming expands in northern Basra with increased yields",
+      "url_or_identifier": "https://en.964media.com/28427/",
+      "published_year": 2024,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مثال عراقي على عروة البامية الربيعية/الصيفية وعروة شتوية محمية في البصرة؛ ليس موعداً معتمداً لبابل"
+      ]
+    },
+    "SRC-HILLAH-CALENDAR": {
+      "publisher": "Safe to Plant (climate-based calendar)",
+      "title": "Al Hillah, Babil planting calendar",
+      "url_or_identifier": "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مؤشرات تخطيط مناخي تاريخية للحلة وليست تقويماً رسمياً أو بديلاً عن الرصد الميداني"
+      ]
+    },
+    "SRC-MAZRATI-V15-01": {
+      "publisher": "جامعة بابل / دراسة مناخية منشورة في Journal of Engineering Science and Technology",
+      "title": "Climate characteristics and trends of Al-Hillah, Babil (data analysis using local/University of Delaware climate series)",
+      "url_or_identifier": "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+      "published_year": 2020,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "وصف مناخ الحلة الجاف وشدة حرارة الصيف وموسم الأمطار الشتوي؛ لا يحدد وحده موعد زراعة محصول بعينه"
+      ]
+    },
+    "SRC-MAZRATI-V15-02": {
+      "publisher": "Iraqi Journal / University of Babylon regional groundwater study",
+      "title": "The Quality of Ground Water for Selected Area in South of Babylon Governorate/Iraq",
+      "url_or_identifier": "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+      "published_year": 2015,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "بيانات محطة الحلة المناخية 1980–2012، ومنها متوسطات الحرارة والأمطار والتبخر الشهرية"
+      ]
+    },
+    "SRC-MAZRATI-V15-04": {
+      "publisher": "جامعة الموصل – مركز الدراسات الإقليمية",
+      "title": "الأمن الغذائي الأسري والاستثماري-القطاعي والتقلبات الاقتصادية الكلية",
+      "url_or_identifier": "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+      "published_year": 2024,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "إرشادات عامة للزراعة المنزلية في العراق، ومواسم محلية لبعض المحاصيل مثل الباقلاء والكراث والكرفس والبقدونس؛ الدراسة تطبيقها في نينوى وليس بابل لذلك تستخدم للمقارنة لا لنقل المواعيد حرفياً"
+      ]
+    },
+    "SRC-BABIL-FRUIT-TREES": {
+      "publisher": "Wasit University – Journal of Dhi Qar Agricultural Research",
+      "title": "Trends in the area of fruit trees in Babil Governorate using geographical techniques",
+      "url_or_identifier": "https://djas.uowasit.edu.iq/index.php/djas/ar/article/view/76",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود وتوزع بساتين الفاكهة في محافظة بابل واتجاهات تغير مساحاتها؛ لا يحدد وحده نجاح صنف بعينه"
+      ]
+    },
+    "SRC-HILLA-DATE-PALM": {
+      "publisher": "European Journal of Theoretical and Applied Sciences",
+      "title": "A Study of the Effect of Some Natural and Human Factors on Date Palm Cultivation in the Hilla District, Iraq",
+      "url_or_identifier": "https://doi.org/10.59324/ejtas.2023.1(3).15",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تأثير المناخ والماء والتربة والملوحة والإدارة في زراعة النخيل جنوب بابل"
+      ]
+    },
+    "SRC-FAO-SALT-FRUIT": {
+      "publisher": "FAO",
+      "title": "Date Palm Cultivation – Chapter VI: Land preparation, planting operation and fertilisation requirements",
+      "url_or_identifier": "https://www.fao.org/4/y4360e/y4360e0a.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المقارنة النسبية لتحمل الملوحة بين أنواع أشجار الفاكهة؛ لا تستخدم القيم كحدود تشغيلية دون تحليل ماء وتربة"
+      ]
+    },
+    "SRC-IRAQ-FRUIT-CROPS": {
+      "publisher": "FAO",
+      "title": "Iraq crop production and protection – fruit crops",
+      "url_or_identifier": "https://www.fao.org/4/Y9870E/y9870e07.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود محاصيل الفاكهة الحجرية والكمثرى والتفاح واللوز والجوز والفستق ضمن محاصيل العراق"
+      ]
+    },
+    "SRC-CHILLING-MRCC": {
+      "publisher": "Midwestern Regional Climate Center / Purdue University",
+      "title": "About Custom Chilling Hours Tool",
+      "url_or_identifier": "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مفهوم ساعات البرودة وتباين الاحتياج بين الأنواع والأصناف؛ لا يثبت ساعات البرودة المتراكمة في الحلة"
+      ]
+    },
+    "SRC-ALMOND-IRAQ-UNI": {
+      "publisher": "Al-Mustaqbal University",
+      "title": "Almond cultivation: climatic requirements, soils, cultivars and diseases",
+      "url_or_identifier": "https://uomus.edu.iq/DepartmentEn/Details/102035",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات اللوز المناخية والتربة والأصناف والأمراض؛ يلزم التحقق محلياً من الصنف"
+      ]
+    },
+    "SRC-BABIL-POMEGRANATE": {
+      "publisher": "Journal of the Iraqi University",
+      "title": "الملائمة المناخية لأقاليم الحرارة المتجمعة الزراعة وإنتاج أشجار فاكهة الرمان في العراق",
+      "url_or_identifier": "https://openurl.ebsco.com/contentitem/gcd:188638516",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تصنيف ملاءمة الحلة مناخياً للرمان بدرجة جيدة ضمن الدراسة الوطنية"
+      ]
+    },
+    "SRC-NTU-NURSERY": {
+      "publisher": "Northern Technical University",
+      "title": "Nursery lectures: stratification and fruit tree seed dormancy",
+      "url_or_identifier": "https://ntu.edu.iq/wp-content/uploads/2023/09/مشاتل%20نظري-2019_3.pdf",
+      "published_year": 2019,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مفهوم السكون والتطببق البارد للبذور؛ لا يعوض اختيار أصل وصنف ملائمين"
+      ]
+    },
+    "SRC-MAZ-PALM": {
+      "publisher": "EJ-TAS",
+      "title": "A Study of the Effect of Some Natural and Human Factors on Date Palm Cultivation in the Hilla District, Iraq",
+      "url_or_identifier": "https://ejtas.com/index.php/journal/article/view/68",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "عوامل التربة والماء والمناخ وإدارة نخيل التمر في جنوب بابل والحلة"
+      ]
+    },
+    "SRC-MAZ-PALM2": {
+      "publisher": "FAO AGRIS / جامعة القاسم الخضراء",
+      "title": "Problems of date production in Hilla District / Babylon province",
+      "url_or_identifier": "https://agris.fao.org/search/en/providers/125623/records/6878e9610868163a2f7527a7",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المشكلات الإنتاجية التي يواجهها مزارعو التمور في الحلة"
+      ]
+    },
+    "SRC-MAZ-BABILPALM": {
+      "publisher": "جامعة بغداد – مجلة الآداب",
+      "title": "التحليل المكاني لزراعة النخيل في محافظة بابل للمدة 2006–2017",
+      "url_or_identifier": "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/3980",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "انتشار نخيل التمر وأهميته الزراعية في بابل"
+      ]
+    },
+    "SRC-MAZ-CITRUS": {
+      "publisher": "Bayer Crop Science Iraq",
+      "title": "Citrus – Iraq crop information",
+      "url_or_identifier": "https://www.iq.cropscience.bayer.com/en-iq/crops/citrus.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أنواع الحمضيات والتربة والصرف والحرارة والري والتغذية في العراق"
+      ]
+    },
+    "SRC-MAZ-CITRUSSTATS": {
+      "publisher": "الجهاز المركزي للإحصاء العراقي",
+      "title": "تقرير إنتاج أشجار الحمضيات لسنة 2018",
+      "url_or_identifier": "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D9%85%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%84%D8%B3%D9%86%D8%A9%202018.pdf",
+      "published_year": 2018,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود البرتقال والليمون والنارنج واليوسفي وإنتاجها في بابل"
+      ]
+    },
+    "SRC-MAZ-HORT": {
+      "publisher": "جامعة بغداد – كلية علوم الهندسة الزراعية",
+      "title": "مبادئ علم البستنة – أشجار الحمضيات",
+      "url_or_identifier": "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf",
+      "published_year": 2016,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "ملاءمة وسط العراق للحمضيات والفروق بين الأنواع"
+      ]
+    },
+    "SRC-MAZ-APPLE": {
+      "publisher": "Tikrit Journal for Agricultural Sciences",
+      "title": "Physiological and yield responses of apple trees ... in Babil Governorate",
+      "url_or_identifier": "https://www.tjas.org/article_586_605ff764c617d3cd28dbbdd72be8f9a2.pdf",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "زراعة التفاح في بابل وقيود البرودة وإدارة التربة والتسميد"
+      ]
+    },
+    "SRC-MAZ-APPLEBABIL": {
+      "publisher": "Tikrit Journal for Agricultural Sciences",
+      "title": "Physiological and yield responses of apple trees ... in Babil Governorate",
+      "url_or_identifier": "https://www.tjas.org/article_586.html",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة تفاح في وسط العراق ضمن بيئة بابل"
+      ]
+    },
+    "SRC-MAZ-APPLEHASH": {
+      "publisher": "South Eastern European Journal of Public Health",
+      "title": "Fruit Characteristics and Yield Quality of Two Apple Varieties ...",
+      "url_or_identifier": "https://www.seejph.com/index.php/seejph/article/view/993",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة أصناف Anna وSharabi في الهاشمية بمحافظة بابل موسم 2023"
+      ]
+    },
+    "SRC-BABIL-MULBERRY-2025": {
+      "publisher": "جامعة الموصل – مجلة التربية للعلوم الإنسانية",
+      "title": "أثر المناخ على إنتاجية أشجار التوت في محافظة بابل للمدة 2019–2023",
+      "url_or_identifier": "https://jeh.uomosul.edu.iq/index.php/jeh/en/article/view/51744",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "بيانات محلية عن تغير أعداد أشجار التوت المثمرة والإنتاجية في بابل خلال 2019–2023",
+        "مناقشة العوامل المناخية والإدارية المؤثرة؛ لا يقدم جدول ري أو جرعات تسميد معتمدة"
+      ]
+    },
+    "SRC-FAO-FRUIT-ENV": {
+      "publisher": "FAO",
+      "title": "Annex 10 – Recommended production environment for selected fruit crops",
+      "url_or_identifier": "https://www.fao.org/4/x5405e/x5405e0m.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات المناخ والماء والتربة والقيود البيئية للمانجو والبابايا والموز ومحاصيل فاكهة استوائية؛ مرجع عام وليس تقويماً خاصاً ببابل"
+      ]
+    },
+    "SRC-FAO-CROP-WATER": {
+      "publisher": "FAO",
+      "title": "Crop Water Needs",
+      "url_or_identifier": "https://www.fao.org/4/s2022e/s2022e02.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "منهجية تقدير الاحتياجات المائية بالنتح والتبخر؛ لاستخراج كميات ري محلية دون افتراض رقم ثابت"
+      ]
+    },
+    "SRC-IRAQ-LOQUAT-2017": {
+      "publisher": "جامعة بغداد – المجلة العراقية للعلوم الزراعية",
+      "title": "Iraqi Journal of Agricultural Sciences – Loquat (Eriobotrya japonica), 48(3), 2017",
+      "url_or_identifier": "https://jcoagri.uobaghdad.edu.iq/index.php/intro/article/download/402/320/",
+      "published_year": 2017,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود زراعة الأسكدنيا في العراق وأصناف مزروعة محلياً وموسم حصاد عراقي ورد في الدراسة؛ لا يعمم الموعد دون تحقق صنفي"
+      ]
+    },
+    "SRC-BABIL-PAPAYA-2023": {
+      "publisher": "964media – تقرير ميداني من بابل وتصريح دائرة زراعة المسيب",
+      "title": "Iraqi farmer successfully grows Thai papaya trees in Babil",
+      "url_or_identifier": "https://en.964media.com/7104/",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة زراعة بابايا تايلندية في المسيب ببابل، مع توثيق تأثرها بالبرد الشديد والحر الشديد والحاجة للحماية"
+      ]
+    },
+    "SRC-NAJAF-BANANA-2024": {
+      "publisher": "964media – تقرير عن مركز أبحاث زراعية في المشخاب",
+      "title": "First for Najaf as bananas grown in local greenhouses",
+      "url_or_identifier": "https://en.964media.com/29218/",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "نجاح تجريبي لصنف Grand Nain في بيئة محمية بالمشخاب؛ مرجع عراقي مجاور وليس إثباتاً للزراعة المكشوفة في بابل"
+      ]
+    },
+    "SRC-NAJAF-STRAWBERRY-2024": {
+      "publisher": "مجلة كربلاء للعلوم الزراعية / جامعة كربلاء",
+      "title": "Strawberry – Albion under protected cultivation, Najaf Governorate, 2023–2024",
+      "url_or_identifier": "https://iasj.mohesr.gov.iq/journals/journal/issue/20987",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة صنف Albion في بيت بلاستيكي بالنجف للموسم 2023–2024؛ دليل إقليمي قريب لاستخلاص أهمية الحماية"
+      ]
+    },
+    "SRC-BABIL-STRAWBERRY-2024": {
+      "publisher": "مجلة الفرات للعلوم الزراعية",
+      "title": "Response of Strawberry to Growth, Productivity, and Marketability to Foliar Application of Potassium Silicates and Aqueous Hibiscus Extract",
+      "url_or_identifier": "https://iasj.mohesr.gov.iq/journals/journal/issue/16601",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة محصول الفراولة وصنف Rubygem في محافظة بابل خلال موسم 2024؛ دليل مباشر على إجراء تجارب محلية"
+      ]
+    },
+    "SRC-IRAQ-JUJUBE-2024": {
+      "publisher": "مجلة البحوث الزراعية العراقية / Euphrates Journal of Agricultural Science",
+      "title": "Jujube trees – fruit growth and quality research in Iraq",
+      "url_or_identifier": "https://iasj.rdd.edu.iq/journals/uploads/2024/12/18/ba44b2f885990234bab581ce187fe0c5.pdf",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "خصائص نمو ثمار النبق ومشكلة الملوحة بوصفها قيداً مهماً في وسط وجنوب العراق"
+      ]
+    },
+    "SRC-IRAQ-PERSIMMON-2026": {
+      "publisher": "جامعة المستقبل – كلية التقنيات الزراعية",
+      "title": "Persimmon Fruit (Diospyros kaki)",
+      "url_or_identifier": "https://uomus.edu.iq/DepartmentEn/Details/102652",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التصنيف والصفات النباتية للكاكي وأنواع الأزهار؛ مرجع تعريفي جامعي وليس تجربة محلية ببابل"
+      ]
+    },
+    "SRC-IRAQ-STRAWBERRY-2024": {
+      "publisher": "Euphrates Journal of Agricultural Science",
+      "title": "Strawberry cultivation in Iraq – review and local context",
+      "url_or_identifier": "https://iasj.rdd.edu.iq/journals/uploads/2025/05/06/d84e4e954166489456fadba03d7c2111.pdf",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "انتشار زراعة الفراولة في العراق وتجارب النجف؛ مصدر مساند لا يحدد موعد بابل"
+      ]
+    },
+    "SRC-RHS-PLANTS": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "RHS Plants – plant profiles and cultivation guidance",
+      "url_or_identifier": "https://www.rhs.org.uk/plants",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الاسم العلمي والصفات العامة ومتطلبات الضوء والتربة والعناية؛ تختلف الإرشادات حسب النوع والصنف"
+      ]
+    },
+    "SRC-BABIL-LOCAL-REVIEW": {
+      "publisher": "قاعدة مزرعتي – مراجعة محلية مطلوبة",
+      "title": "Iraqi horticultural context; Babil local review required",
+      "url_or_identifier": "internal:local-review-required",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تكييف إرشادي أولي لمناخ وسط العراق وبابل؛ يحتاج مراجعة بستنية محلية"
+      ]
+    },
+    "SRC-KEW-POWO": {
+      "publisher": "Royal Botanic Gardens, Kew",
+      "title": "Plants of the World Online (POWO)",
+      "url_or_identifier": "https://powo.science.kew.org/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التحقق المرجعي من الأسماء العلمية والتصنيف النباتي؛ لا يثبت وحده ملاءمة الصنف أو الممارسات الزراعية في بابل"
+      ]
+    },
+    "SRC-NCSU-PLANT-TOOLBOX": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Extension Gardener Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التعرف النباتي ومتطلبات النمو والإكثار والآفات والسمية لنباتات الزينة المنزلية؛ يجب مراجعة صفحة النوع المحدد."
+      ]
+    },
+    "SRC-EXT-001": {
+      "publisher": "FAO",
+      "title": "Roots, tubers, plantains and bananas in animal feeding – Sweet potato",
+      "url_or_identifier": "https://www.fao.org/4/t0554e/T0554E14.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مدى الحرارة والنمو",
+        "متطلبات الرطوبة والصرف والتربة",
+        "مراحل النمو والدورة العامة والحصاد"
+      ]
+    },
+    "SRC-EXT-002": {
+      "publisher": "FAO-56",
+      "title": "Crop evapotranspiration – Kc table (sweet potato)",
+      "url_or_identifier": "https://agrhysmo.agr.unipi.it/wp-content/uploads/2025/09/FAO56%202025.pdf",
+      "published_year": 2025,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "معاملات Kc الابتدائية والوسطية والنهائية وعمق الجذور المرجعي"
+      ]
+    },
+    "SRC-EXT-003": {
+      "publisher": "FAO",
+      "title": "Crop evapotranspiration – crop coefficient chapter",
+      "url_or_identifier": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "مراحل نمو البصل ومعاملات المحصول المرجعية"
+      ]
+    },
+    "SRC-EXT-004": {
+      "publisher": "IOBC-WPRS",
+      "title": "Field Grown Vegetables: Onions, Shallots, Garlic – IP guidelines",
+      "url_or_identifier": "https://iobc-wprs.org/ip-tools/general-and-crop-specific-ip-guidelines/veg_onions/",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "إرشادات إدارة متكاملة للمحصول وجودة ماء الري والتسجيلات وممارسات الري"
+      ]
+    },
+    "SRC-EXT-005": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Cabbages in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/cabbage/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "تقدير نافذة الزراعة الموسمية ومخاطر الصقيع ومدة النضج للحلة؛ نموذج تخطيطي يحتاج تحققاً ميدانياً."
+      ]
+    },
+    "SRC-EXT-006": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Cauliflowers in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/cauliflower/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "تقدير نافذة الزراعة ومخاطر الصقيع للحلة؛ ليس توصية زراعية رسمية."
+      ]
+    },
+    "SRC-EXT-007": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Broccoli in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/broccoli/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "تقدير نافذة الزراعة ومخاطر الصقيع للحلة؛ ليس توصية زراعية رسمية."
+      ]
+    },
+    "SRC-EXT-008": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Swiss chard in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/chard/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "تقدير نافذة زراعة السلق ومخاطر الصقيع للحلة؛ يستخدم كقرينة مناخية فقط."
+      ]
+    },
+    "SRC-EXT-009": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Radishes in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/radish/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "نافذة بذر الفجل وتتابع البذر ومدة النضج ومناخ الحلة."
+      ]
+    },
+    "SRC-EXT-010": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Beetroot in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/beetroot/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "نافذة بذر الشمندر للحلة وموعد الحصاد التقديري."
+      ]
+    },
+    "SRC-EXT-011": {
+      "publisher": "Safe to Plant – Al Hillah climate model",
+      "title": "When to Plant Peas in Al Hillah, Babil, Iraq",
+      "url_or_identifier": "https://safetoplant.com/when-to-plant/pea/al-hillah",
+      "published_year": null,
+      "accessed_on": "2026-11-18",
+      "supports": [
+        "نافذة بذر البازلاء ومدة النضج التقديرية للحلة."
+      ]
+    },
+    "SRC-EXT-012": {
+      "publisher": "FAO / United Nations Iraq",
+      "title": "Iraq crop calendar – DIEM report",
+      "url_or_identifier": "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+      "published_year": 2022,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "نوافذ زراعة وحصاد الحنطة والشعير والرز والذرة في العراق؛ تقويم إرشادي وطني"
+      ]
+    },
+    "SRC-EXT-013": {
+      "publisher": "مجلة كلية التربية – الجامعة المستنصرية",
+      "title": "أثر المناخ على زراعة وإنتاج بعض المحاصيل الحقلية في محافظة بابل للمدة 2011–2022",
+      "url_or_identifier": "https://cbej.uomustansiriyah.edu.iq/index.php/cbej/article/view/14524",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أثر الحرارة والإشعاع والأمطار والري في إنتاج الحنطة والشعير والذرة الصفراء في بابل"
+      ]
+    },
+    "SRC-EXT-014": {
+      "publisher": "مجلة الآداب – جامعة بغداد",
+      "title": "التحليل الجغرافي للمحاصيل الحقلية في محافظة بابل للموسم الزراعي 2020–2021",
+      "url_or_identifier": "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/1649",
+      "published_year": 2022,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المحاصيل الحقلية المزروعة في بابل ومنها الحنطة والشعير والرز والذرة الصفراء"
+      ]
+    },
+    "SRC-EXT-015": {
+      "publisher": "Wageningen University & Research",
+      "title": "Iraq Agricultural Development Report",
+      "url_or_identifier": "https://www.agroberichtenbuitenland.nl/site/binaries/site-content/collections/documents/2018/11/09/wageningen-iraq-agri-development-report-2018/Wageningen%2BIraq%2BAgri%2BDevelopment%2BReport%2B2018.pdf",
+      "published_year": 2018,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "نوافذ زراعة وطنية تاريخية استرشادية للقطن والسمسم والسورغم؛ ليست مواعيد ثابتة لبابل"
+      ]
+    },
+    "SRC-EXT-016": {
+      "publisher": "FAO",
+      "title": "Iraq Agricultural Calendar",
+      "url_or_identifier": "https://data-in-emergencies.fao.org/documents/6a03a625e7ee44c08ce754993bdf4cf9/about",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تقويم زراعي عراقي عام وتوقيتات المحاصيل"
+      ]
+    },
+    "SRC-EXT-017": {
+      "publisher": "Al-Furat Al-Awsat Technical University",
+      "title": "Sunflower genotypes and planting dates under Al-Musayyib conditions",
+      "url_or_identifier": "https://fjias.atu.edu.iq/index.php/dfg/article/view/73",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة محلية في المسيب ببابل لمواعيد زراعة عباد الشمس؛ النتائج مرتبطة بالأصناف والموسم"
+      ]
+    },
+    "SRC-EXT-018": {
+      "publisher": "Al-Furat Al-Awsat Technical University",
+      "title": "Sunflower planting dates in Al-Musayyib, Babil",
+      "url_or_identifier": "https://fjias.atu.edu.iq/index.php/dfg/article/view/170",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مقارنة مواعيد الزراعة الربيعية والخريفية لعباد الشمس في بابل"
+      ]
+    },
+    "SRC-EXT-019": {
+      "publisher": "University of Baghdad – Iraqi Journal of Agricultural Sciences",
+      "title": "Soybean planting dates under Iraqi conditions",
+      "url_or_identifier": "https://jcoagri.uobaghdad.edu.iq/index.php/intro/article/view/2434",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجارب عراقية على مواعيد زراعة فول الصويا؛ لا تمثل توصية نهائية لبابل"
+      ]
+    },
+    "SRC-EXT-020": {
+      "publisher": "Tikrit University",
+      "title": "Soybean summer planting date trial, 2024",
+      "url_or_identifier": "https://medip.uokirkuk.edu.iq/article_186988.html",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجربة عراقية لمواعيد زراعة فول الصويا؛ تعميمها على بابل يحتاج تحققاً محلياً"
+      ]
+    },
+    "SRC-EXT-021": {
+      "publisher": "FAO",
+      "title": "FAO Crop Calendar",
+      "url_or_identifier": "https://cropcalendar.apps.fao.org/?pagename=%2Fwelcome.do",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مرجع عام لمقارنة نوافذ الزراعة حسب البلد والمنطقة الزراعية"
+      ]
+    },
+    "SRC-FAO56-KC-SOLANUM-ROOTS": {
+      "publisher": "FAO",
+      "title": "Chapter 6 – ETc: Single crop coefficient (Kc), FAO Irrigation and Drainage Paper 56",
+      "url_or_identifier": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+      "published_year": 1998,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "قيم Kc المرجعية للطماطم والخيار والباذنجان والفلفل والبطاطا والبطاطا الحلوة والبصل الجاف والثوم والخس",
+        "طريقة حساب ETc = Kc × ETo",
+        "ضرورة تعديل Kc حسب المناخ والري الفعلي وتغطية التربة والرياح والرطوبة"
+      ]
+    },
+    "SRC-CORNELL-ARUGULA": {
+      "publisher": "Cornell University – Garden-Based Learning",
+      "title": "Arugula growing guide",
+      "url_or_identifier": "https://gardening.cals.cornell.edu/garden-guidance/foodgarden/vegetable-growing-guides/arugula/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "هوية الجرجير Eruca vesicaria",
+        "الموسم البارد والبذر المباشر والحصاد السريع",
+        "خنافس البراغيث والبياض الزغبي والتزهير المبكر"
+      ]
+    },
+    "SRC-NCSU-ARUGULA": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Eruca vesicaria – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/eruca-vesicaria/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الهوية النباتية والخصائص العامة للجرجير",
+        "النمو والحصاد ومشكلات الحرارة"
+      ]
+    },
+    "SRC-VT-TURNIP": {
+      "publisher": "Virginia Cooperative Extension – Virginia Tech",
+      "title": "Root Crops: Turnip & Rutabaga",
+      "url_or_identifier": "https://www.pubs.ext.vt.edu/content/pubs_ext_vt_edu/en/426/426-422/426-422.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات اللفت من التربة والحرارة",
+        "البذر والتخفيف والحصاد",
+        "مشكلات الجفاف والآفات والأمراض"
+      ]
+    },
+    "SRC-UMN-TURNIP": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Growing turnips and rutabagas in home gardens",
+      "url_or_identifier": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-turnips-and-rutabagas",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إدارة اللفت في الجو البارد",
+        "تأثير الإجهاد المائي على الجذر",
+        "مواعيد الحصاد والحجم"
+      ]
+    },
+    "SRC-FAO56-KC-VEG": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "FAO Irrigation and Drainage Paper 56 – Chapter 6: Single crop coefficient (Kc), Table 12",
+      "url_or_identifier": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+      "published_year": 1998,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "قيم Kc ini وKc mid وKc end المنشورة للفاصوليا الخضراء واللوبيا/الماش والبازلاء الطازجة والقرع الشتوي والكوسة والشمام والبطيخ",
+        "منهج إنشاء منحنى Kc بالاستيفاء الخطي خلال مرحلة التطور",
+        "ضرورة تعديل Kc وفق الرطوبة والرياح وارتفاع النبات وتواتر ترطيب التربة؛ القيم معيارية وليست محلية للحلة"
+      ]
+    },
+    "SRC-FAO-IRAQ-CROP-CALENDAR": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "Iraq: DIEM – Data in Emergencies Monitoring brief, round 7 – Results and recommendations (Figure 4: Iraq crop calendar)",
+      "url_or_identifier": "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+      "published_year": 2022,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التقويم الوطني العراقي لمحصول الذرة (عروة ربيعية وعروة خريفية)",
+        "السياق الموسمي العام للزراعة في العراق؛ لا يمثل تقويماً خاصاً بكل صنف أو محافظة"
+      ]
+    },
+    "SRC-FAO56-KC": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "Crop evapotranspiration – Guidelines for computing crop water requirements, Irrigation and Drainage Paper 56, Chapter 6, Tables 11–12",
+      "url_or_identifier": "https://www.fao.org/4/X0490E/x0490e0b.htm",
+      "published_year": 1998,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "قيم Kc القياسية المنشورة صراحة للكرفس والذرة الحلوة والخرشوف والهليون والفول العريض والفاصوليا الجافة",
+        "مبدأ إنشاء منحنى Kc بين مراحل النمو وتعديل القيم للظروف المناخية المحلية"
+      ]
+    },
+    "SRC-BASEH-HORTI": {
+      "publisher": "جامعة البصرة – كلية الزراعة – قسم البستنة وهندسة الحدائق",
+      "title": "وصف البرنامج الأكاديمي ومفردات مقررات إنتاج الخضر (2021)",
+      "url_or_identifier": "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf",
+      "published_year": 2021,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المحتوى الأكاديمي العراقي لإنتاج الخضر الصيفية والشتوية",
+        "إدراج البقدونس والكرفس والكراث والبازلاء والباقلاء والذرة الحلوة والخرشوف والهليون ضمن مفردات إنتاج الخضر"
+      ]
+    },
+    "SRC-PEREIRA-2021-KC": {
+      "publisher": "Pereira et al. – Agricultural Water Management",
+      "title": "Standard single and basal crop coefficients for vegetable crops, an update of FAO56 crop water requirements approach (2021)",
+      "url_or_identifier": "https://doi.org/10.1016/j.agwat.2020.106196",
+      "published_year": 2021,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "قيم Kc القياسية المنشورة للكزبرة والبقدونس بعد مراجعة دراسات حقلية وتوحيدها للمناخ القياسي",
+        "حدود قابلية نقل قيم Kc من مواقع البحث إلى الحلة وضرورة تعديلها محلياً"
+      ]
+    },
+    "SRC-OSU-ASPARAGUS": {
+      "publisher": "Oklahoma State University Extension",
+      "title": "Asparagus Production (HLA-6018)",
+      "url_or_identifier": "https://extension.okstate.edu/fact-sheets/asparagus-production",
+      "published_year": 2017,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الطبيعة المعمرة للهليون وإدارة نمو السراخس/المجموع الخضري بعد الحصاد",
+        "آفات وأمراض الهليون ومخاطر الإجهاد والجفاف والإفراط في الحصاد"
+      ]
+    },
+    "SRC-FAO-DATE-2024": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "Date Palm Cultivation, 2nd edition",
+      "url_or_identifier": "https://openknowledge.fao.org/handle/20.500.14283/cc9251en",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الاحتياجات المناخية وإدارة بساتين النخيل والتلقيح والري والحصاد والآفات"
+      ]
+    },
+    "SRC-IRAQ-OLIVE-CLIMATE-2025": {
+      "publisher": "مجلة كلية التربية – جامعة واسط",
+      "title": "Assessing the Climatic Suitability for Olive Tree Cultivation in Iraq Based on Spatiotemporal Variations in the Growing Season Duration",
+      "url_or_identifier": "https://eduj.uowasit.edu.iq/index.php/eduj/en/article/view/5188",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تباين ملاءمة مناطق العراق للزيتون وبداية موسم النمو في وسط وجنوب العراق؛ لا يثبت وحده ملاءمة صنف بعينه للحلة"
+      ]
+    },
+    "SRC-UCANR-OLIVE-IPM": {
+      "publisher": "University of California Agriculture and Natural Resources – UC IPM",
+      "title": "Pest Management Guidelines: Olive",
+      "url_or_identifier": "https://ipm.ucanr.edu/agriculture/olive/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التشخيص التفريقي والإدارة المتكاملة لآفات وأمراض الزيتون والإصحاح والتقليم وإدارة الري"
+      ]
+    },
+    "SRC-UF-OLIVE": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Olives for Your Florida Landscape",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/EP515",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التقليم والإثمار المتبادل وتناوب الحمل ومؤشرات نضج الزيتون؛ مبادئ عامة لا تقويم عراقي"
+      ]
+    },
+    "SRC-UGA-POMEGRANATE": {
+      "publisher": "University of Georgia Cooperative Extension",
+      "title": "Pomegranate Production (Circular 997)",
+      "url_or_identifier": "https://extension.uga.edu/publications/detail.html?number=C997&title=pomegranate-production",
+      "published_year": 2010,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "اختيار الموقع والصرف والري والتشقق والتقليم والحصاد في الرمان؛ مبادئ عامة لا جرعات محلية"
+      ]
+    },
+    "SRC-KERBALA-POMEGRANATE": {
+      "publisher": "مجلة كربلاء للعلوم الزراعية – جامعة كربلاء",
+      "title": "Environmental and biological survey of pomegranate fruit rot in Karbala and Babylon governorates",
+      "url_or_identifier": "https://journals.uokerbala.edu.iq/index.php/Agriculture/article/download/2803/1442",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مسح أعفان ثمار الرمان في مواقع من كربلاء وبابل ومنها المسيب وسدة الهندية والمشروع؛ لا يستخدم وحده لوصف جميع الأمراض"
+      ]
+    },
+    "SRC-UF-FIG": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "The Fig (HS27/MG214)",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/MG214",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إكثار التين بالعقل الساكنة وموقع الزراعة والري والتقليم والأمراض والآفات؛ الأرقام المناخية لا تنقل إلى بابل"
+      ]
+    },
+    "SRC-UCANR-FIG": {
+      "publisher": "University of California Agriculture and Natural Resources – UC IPM",
+      "title": "Cultural Tips for Growing Fig",
+      "url_or_identifier": "https://ipm.ucanr.edu/home-and-landscape/cultural-tips-for-growing-fig/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "احتياجات الموقع والصرف والري والتقليم والنظافة وإدارة مشاكل التين"
+      ]
+    },
+    "SRC-UCD-GRAPE": {
+      "publisher": "University of California, Davis – Viticulture and Enology",
+      "title": "Viticulture Grape Growing Information",
+      "url_or_identifier": "https://wine.ucdavis.edu/viticulture-grape-growing-information",
+      "published_year": 2019,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "دورة نمو العنب وإدارة المجموع الخضري والري والتغذية والآفات والأمراض؛ مرجع تقني عام"
+      ]
+    },
+    "SRC-UCANR-GRAPE": {
+      "publisher": "University of California Agriculture and Natural Resources – UC IPM",
+      "title": "Cultural Tips for Growing Grape",
+      "url_or_identifier": "https://ipm.ucanr.edu/home-and-landscape/cultural-tips-for-growing-grape/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات الموقع والتربة والري والتقليم والتخفيف للعنب؛ لا تنقل كميات الري إلى الحلة"
+      ]
+    },
+    "SRC-UCANR-GRAPE-IPM": {
+      "publisher": "University of California Agriculture and Natural Resources – UC IPM",
+      "title": "Pest Management Guidelines: Grape",
+      "url_or_identifier": "https://ipm.ucanr.edu/agriculture/grape/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التشخيص والإدارة المتكاملة لأمراض وآفات العنب والإصحاح وإدارة جروح التقليم"
+      ]
+    },
+    "SRC-IRAQ-FRUIT-STAT-2016": {
+      "publisher": "الجهاز المركزي للإحصاء العراقي – مديرية الإحصاء الزراعي",
+      "title": "تقرير إنتاج أشجار الفواكه الصيفية لسنة 2016",
+      "url_or_identifier": "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9%20%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9%20%D9%84%D8%B3%D9%86%D8%A9%202016.pdf",
+      "published_year": 2016,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود وإنتاج بعض أشجار الفاكهة في المحافظات العراقية؛ تظهر بيانات الكمثرى والتين لمحافظة بابل",
+        "مرجع إحصائي تاريخي لا يثبت ممارسات الري أو التسميد أو الإنتاج الحالي"
+      ]
+    },
+    "SRC-DIYALA-STRAWBERRY-2023": {
+      "publisher": "جامعة ديالى – كلية الزراعة",
+      "title": "دورة تدريبية حول استراتيجيات نجاح زراعة الفراولة في الترب العراقية",
+      "url_or_identifier": "https://uodiyala.edu.iq/33206/",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تأكيد أن توت الأرض/توت الأرضي/الشليك أسماء شائعة للفراولة في العراق",
+        "معلومات إرشادية عامة عن زراعة الفراولة في الترب العراقية؛ لا تعمم كتقويم محدد للحلة"
+      ]
+    },
+    "SRC-STRAWBERRY-PESTALOTIA-IRAQ": {
+      "publisher": "Plant Cell Biotechnology and Molecular Biology",
+      "title": "Pestalotia: Crown Rot Disease of Strawberry – First Report in Iraq",
+      "url_or_identifier": "https://ikprress.org/index.php/PCBMB/article/view/5451",
+      "published_year": 2020,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تقرير أولي عن تشخيص Pestalotia crown rot على الفراولة في العراق؛ الحالة المبلغ عنها كانت في نينوى ولا تعني انتشارها في بابل"
+      ]
+    },
+    "SRC-FAO-ORCHARD-KC-REVIEW-2024": {
+      "publisher": "Agricultural Water Management – Elsevier / SpringerLink record",
+      "title": "Single and basal crop coefficients for estimation of water requirements of subtropical and tropical orchards and plantations (2024)",
+      "url_or_identifier": "https://link.springer.com/article/10.1007/s00271-024-00925-7",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مراجعة علمية لبحوث معاملات Kc وKcb لمحاصيل بستانية مدارية وشبه مدارية، ومنها التين والنبق والجوافة والمانجو والبابايا",
+        "مرجع منهجي لمقارنة الأدلة؛ لا يُستخرج منه رقم Kc موحد لكل بستان أو مناخ"
+      ]
+    },
+    "SRC-UN-IRAQ-AGFS-2026": {
+      "publisher": "الأمم المتحدة في العراق",
+      "title": "Agriculture and Food Security in Iraq – Information Note 2",
+      "url_or_identifier": "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "خطة المحاصيل الصيفية العراقية لعام 2026 وتخصيصات الرز والذرة الصفراء والمحاصيل الصناعية؛ مرجع تخطيطي وطني لا يثبت موعداً أو حصة مائية خاصة ببابل"
+      ]
+    },
+    "SRC-FAO-GIEWS-IRQ-2025-09": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO) – GIEWS",
+      "title": "GIEWS Country Brief: The Republic of Iraq, 18 September 2025",
+      "url_or_identifier": "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+      "published_year": 2025,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "اتجاهات إنتاج الحنطة والشعير في العراق وموسم حصاد الحنطة 2025؛ معلومات وطنية لا تستبدل بيانات بابل المحلية"
+      ]
+    },
+    "SRC-FAO-CROP-WATER-NEEDS-2002": {
+      "publisher": "منظمة الأغذية والزراعة للأمم المتحدة (FAO)",
+      "title": "Crop Water Needs – Irrigation Water Management Training Manual, Chapter 2",
+      "url_or_identifier": "https://www.fao.org/4/s2022e/s2022e02.htm",
+      "published_year": 2002,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "العوامل المؤثرة في الاحتياج المائي الموسمي للمحصول؛ القيم الموسمية إرشادية عامة وليست جرعات ري لبابل ولا معاملات Kc محلية"
+      ]
+    },
+    "SRC-ICRISAT-IRAQ-CHICKPEA": {
+      "publisher": "ICRISAT / Iraqi agricultural research contribution",
+      "title": "Status of Chickpea Production in Iraq",
+      "url_or_identifier": "https://oar.icrisat.org/535/1/RA_00152.pdf",
+      "published_year": 2007,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وصف تاريخي لأهمية الحمص في العراق ومناطق تركز زراعته في الشمال واعتماده غالباً على الزراعة المطرية هناك",
+        "يشير إلى بحث الري التكميلي ومشكلات الأصناف والمكننة؛ لا يثبت موعداً أو مردوداً محلياً لمحافظة بابل"
+      ]
+    },
+    "SRC-IRAQ-FORAGE-BABIL-2010-2020": {
+      "publisher": "مجلة الآداب – جامعة بغداد",
+      "title": "التحليل المكاني لإنتاج المحاصيل العلفية في العراق للمدة 2010–2020",
+      "url_or_identifier": "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/4092",
+      "published_year": 2023,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "يتناول البرسيم الحجازي والبرسيم المصري ومحاصيل علفية أخرى ويشمل محافظة بابل ضمن المحافظات المنتجة",
+        "دليل على وجود سياق إنتاج علفي في بابل خلال فترة الدراسة، وليس دليلاً على مواعيد زراعة أو جرعات ري/تسميد محددة"
+      ]
+    },
+    "SRC-RHS-ROSE-GUIDE": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow roses",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/roses/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "احتياجات الضوء والتربة والري والتغذية والتقليم وإزالة الأزهار الذابلة للورد؛ لا يمثل تقويماً محلياً لبابل."
+      ]
+    },
+    "SRC-RHS-ROSE-MILDEW": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "Rose powdery mildew: Symptoms & Control",
+      "url_or_identifier": "https://www.rhs.org.uk/disease/rose-powdery-mildew",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض البياض الدقيقي على الورد وإدارة الأجزاء المصابة والتهوية."
+      ]
+    },
+    "SRC-RHS-ROSE-FAQ": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "Rose Problems: FAQs",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/roses/frequently-asked-questions",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض التبقع الأسود والصدأ ومشكلات أوراق الورد."
+      ]
+    },
+    "SRC-RHS-JASMINE": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow jasmine",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/jasmine/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات الياسمين Jasminum officinale من الضوء والتربة والدعامة والري والتغذية."
+      ]
+    },
+    "SRC-UCIPM-JASMINE": {
+      "publisher": "University of California Statewide IPM Program",
+      "title": "Jasmine – Home and Landscape",
+      "url_or_identifier": "https://ipm.ucanr.edu/home-and-landscape/jasmine/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الآفات الشائعة على جنس الياسمين ومنها الحشرات القشرية والبق الدقيقي والمن، والاضطرابات المرتبطة بالماء والملوحة."
+      ]
+    },
+    "SRC-NCSU-JOFFICINALE": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Jasminum officinale – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/jasminum-officinale/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "هوية الياسمين الشائع وطرق النمو والتقليم بعد الإزهار ومراقبة المن والحشرات القشرية والبق الدقيقي."
+      ]
+    },
+    "SRC-CTAHR-SAMBAC": {
+      "publisher": "University of Hawaiʻi at Mānoa, CTAHR",
+      "title": "Growing Plants for Hawaiian Lei – Pikake (Jasminum sambac)",
+      "url_or_identifier": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/GrowingPlantsHawaiianLei_Perennials_reduced.pdf",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إرشادات نوعية للفل Jasminum sambac في بيئة هاواي؛ تستخدم لفهم هوية النوع والإكثار فقط ولا تعمم مواعيدها أو معدلاتها على بابل."
+      ]
+    },
+    "SRC-RHS-GARDENIA": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow gardenias",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/gardenia/how-to-grow",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات الكاردينيا من الوسط الحامضي والضوء والحرارة والرطوبة والري والتغذية والتقليم وأعراض الاصفرار وتساقط البراعم."
+      ]
+    },
+    "SRC-MSSTATE-GARDENIA": {
+      "publisher": "Mississippi State University Extension",
+      "title": "Gardenias (Gardenia jasminoides) for the Farmer Florist",
+      "url_or_identifier": "https://www.extension.msstate.edu/publications/gardenias-gardenia-jasminoides-for-the-farmer-florist",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "حاجة الكاردينيا للتربة الحامضية وارتباط اصفرار النمو الحديث بنقص إتاحة الحديد في الأوساط القلوية."
+      ]
+    },
+    "SRC-UFIFAS-GARDENIA": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Gardenias at a Glance",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/EP338",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مجال pH الحامضي ومتطلبات الكاردينيا وحساسيتها للأملاح؛ لا تنقل جداول تسميد فلوريدا إلى بابل."
+      ]
+    },
+    "SRC-RHS-BOUGAINVILLEA": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow Bougainvillea",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/bougainvillea/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "متطلبات الجهنمية من الشمس والصرف والري والتغذية والتقليم والإكثار والآفات؛ توقيتات بريطانيا لا تعمم على بابل."
+      ]
+    },
+    "SRC-MEDLINE-OLEANDER": {
+      "publisher": "MedlinePlus Medical Encyclopedia",
+      "title": "Oleander poisoning",
+      "url_or_identifier": "https://www.medlineplus.gov/ency/article/002884.htm",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "وجود مواد سامة في جميع أجزاء الدفلى بما فيها الأوراق والأزهار والسيقان؛ معلومات سمية لا تمثل علاجاً للتعرض."
+      ]
+    },
+    "SRC-NSW-OLEANDER": {
+      "publisher": "NSW Department of Primary Industries",
+      "title": "Oleander – NSW WeedWise",
+      "url_or_identifier": "https://weeds.dpi.nsw.gov.au/Weed/Oleander",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "سمية جميع أجزاء الدفلى وخطورة دخان حرق مخلفاتها؛ لا يعمم ذلك على أنظمة التخلص البلدية في العراق."
+      ]
+    },
+    "SRC-UFIFAS-OLEANDER": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Oleander – Gardening Solutions",
+      "url_or_identifier": "https://gardeningsolutions.ifas.ufl.edu/plants/trees-and-shrubs/shrubs/oleander/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تهيج عصارة الدفلى للجلد والعين، والتعامل الوقائي مع اليرقات وقص الأجزاء المصابة."
+      ]
+    },
+    "SRC-UFIFAS-OLEANDER-CAT": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Oleander Caterpillar, Syntomeida epilais",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/IN135",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تمييز يرقات الدفلى وتغذيتها الهيكلية على الأوراق وإمكان حدوث تعرية شديدة؛ لا يعني ثبوت وجودها في بابل."
+      ]
+    },
+    "SRC-RHS-GAZANIA": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "Gazania rigens – Plant Profile",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/86144/gazania-rigens/details",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الشمس الكاملة والتربة جيدة الصرف وتقليل الري وإزالة الرؤوس الذابلة؛ الآفات والأمراض عادة محدودة."
+      ]
+    },
+    "SRC-NCSU-GAZANIA": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Gazania rigens – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/gazania-rigens/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تحمل الجازانيا للجفاف النسبي وتفضيلها التربة جيدة الصرف والشمس؛ التوقف عن الإزهار صيفاً في المناطق شديدة الحرارة ملاحظة مناخية غير عراقية."
+      ]
+    },
+    "SRC-UMN-PETUNIA": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Petunia – Diagnostic Guide",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/petunia/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض مشكلات البتونيا؛ يستخدم التشخيص التفريقي لا تقويم انتشارها المحلي."
+      ]
+    },
+    "SRC-UMN-PETUNIA-GRAY": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Petunia – Discolored or spotted flowers",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/petunia/flowersdiscolored.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض البياض الدقيقي والعفن الرمادي وبعض الاضطرابات الفيروسية على البتونيا."
+      ]
+    },
+    "SRC-UMN-PETUNIA-ROOT": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Petunia – Leaves wilt and turn brown",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/petunia/leaveswiltbrown.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض عفن الجذر الأسود والعفن الرمادي والذبول على البتونيا."
+      ]
+    },
+    "SRC-UMN-MARIGOLD": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Marigold – Diagnostic Guide",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/marigold/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "التشخيص التفريقي لمشكلات القطيفة؛ لا يثبت شيوعها في بابل."
+      ]
+    },
+    "SRC-UMN-MARIGOLD-FLOWER": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Marigold – Discolored or spotted flowers",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/marigold/flowersdiscolored.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض البياض الدقيقي والعفن الرمادي وتبقعات الأوراق/الأزهار على القطيفة."
+      ]
+    },
+    "SRC-UMN-MARIGOLD-MITES": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Marigold – Leaves discolored white, yellow or pale green",
+      "url_or_identifier": "https://apps.extension.umn.edu/garden/diagnose/plant/annualperennial/marigold/leavesdiscoloredpale.html",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض العنكبوت الأحمر على القطيفة في الجو الحار الجاف."
+      ]
+    },
+    "SRC-UMN-WHITE-MOLD": {
+      "publisher": "University of Minnesota Extension",
+      "title": "White mold in the garden",
+      "url_or_identifier": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-minnesota/yard-and-garden-problems/white-mold-in-the-garden",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المضيفات النباتية وأعراض العفن الأبيض Sclerotinia sclerotiorum ومنها الزينيا والقطيفة والبتونيا."
+      ]
+    },
+    "SRC-ORN-ADDED-01": {
+      "publisher": "مرجع بستني مدرج في ملف النبات",
+      "title": "مرجع تخصصي – راجع ملف النبات المقابل",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/zinnia/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "معلومات بستنية خاصة بالنبات كما هو موضح في ملفه التفصيلي."
+      ]
+    },
+    "SRC-RHS-DIANTHUS": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow dianthus",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/dianthus/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إكثار القرنفل والعناية والصرف والتقليم والآفات والأمراض العامة لمجموعة Dianthus"
+      ]
+    },
+    "SRC-RHS-CHRYSANTHEMUM": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow chrysanthemums",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/chrysanthemum/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الإكثار بالعقل ومتطلبات الشمس والتربة وتوقيت الزراعة وتأثير طول النهار"
+      ]
+    },
+    "SRC-RHS-GLADIOLUS": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow gladioli",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/gladioli/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "طبيعة الكورمة والزراعة والصرف والدعم والتربس وأعفان الكورمات"
+      ]
+    },
+    "SRC-RHS-LILY-DISEASES": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Lily diseases",
+      "url_or_identifier": "https://www.rhs.org.uk/disease/lily-diseases",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض Botrytis elliptica وأعفان الأبصال الفطرية والإدارة غير الكيميائية"
+      ]
+    },
+    "SRC-RHS-TULIP": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow tulips",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/tulip/growing-guide/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "زراعة الأبصال والسكون الصيفي وأمراض التوليب والتخزين"
+      ]
+    },
+    "SRC-RHS-DAFFODIL": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow daffodils",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/daffodils/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "زراعة أبصال النرجس والصرف والعناية بعد الإزهار والسمية والآفات"
+      ]
+    },
+    "SRC-RHS-HIBISCUS": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Hibiscus rosa-sinensis growing guide",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/hibiscus/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الضوء والحرارة والتقليم والإكثار والآفات الشائعة للهيبسكس الاستوائي"
+      ]
+    },
+    "SRC-UCONN-BASIL-DM": {
+      "publisher": "University of Connecticut Extension",
+      "title": "Downy Mildew on Basil in the Greenhouse",
+      "url_or_identifier": "https://extension.uconn.edu/publication/downy-mildew-on-basil-in-the-greenhouse/",
+      "published_year": 2024,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أعراض البياض الزغبي على الريحان وانتقاله بالبذور والهواء؛ التمييز عن نقص التغذية والإدارة الوقائية."
+      ]
+    },
+    "SRC-UAE-LANTANA-TOXIC": {
+      "publisher": "UAE Ministry of Climate Change and Environment / medicinal plants portal",
+      "title": "Lantana camara – toxic plants",
+      "url_or_identifier": "https://medicinalplants.doh.gov.ae/en/Toxic-plants-in-UAE/Lantana-camara-L",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تحذير سمية اللانتانا، خصوصاً الثمار غير الناضجة، وأعراض الابتلاع؛ لا يثبت الانتشار المحلي في العراق"
+      ]
+    },
+    "SRC-APS-SUNFLOWER-DISEASES": {
+      "publisher": "American Phytopathological Society",
+      "title": "Diseases of Sunflower and Jerusalem Artichoke",
+      "url_or_identifier": "https://www.apsnet.org/edcenter/resources/commonnames/Pages/Sunflower.aspx",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "أسماء الأمراض الفطرية وشبيهة الفطرية والبكتيرية والفيروسية المسجلة على Helianthus annuus؛ لا يثبت انتشارها في بابل"
+      ]
+    },
+    "SRC-UF-LANTANA": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Lantana – Gardening Solutions",
+      "url_or_identifier": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/lantana/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تحمل اللانتانا للشمس والحرارة والصرف، وتحذير السمية لبعض الأجزاء، ووجود أصناف غازية في فلوريدا؛ لا يعمم على العراق"
+      ]
+    },
+    "SRC-UOD-MED-HERBS": {
+      "publisher": "جامعة ديالى – المكتبة الإلكترونية الجامعية",
+      "title": "Guidelines for Cultivation, Collection, Conservation and Propagation of Medicinal Herbs",
+      "url_or_identifier": "https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL34/Guidelines%20for%20Cultivation%20Collection%20Conservation%20and%20Propagation%20of%20Medicinal%20Herbs.pdf",
+      "published_year": 2007,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مرجع عراقي تعليمي لممارسات زراعة وجمع بعض النباتات الطبية والعطرية ومنها البابونج والنعناع والريحان والشمر؛ لا يعد تقويماً مثبتاً لمحافظة بابل ولا تُنقل معدلات البذار دون تحقق محلي."
+      ]
+    },
+    "SRC-UMN-BASIL-DM": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Basil downy mildew",
+      "url_or_identifier": "https://extension.umn.edu/agriculture/specialty-crops/vegetable-farming/disease-management/basil-downy-mildew",
+      "published_year": 2022,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تمييز البياض الزغبي في الريحان عن نقص العناصر؛ المسبب كائن شبيه بالفطريات (water mold/oomycete)؛ أهمية التهوية وتقليل بلل الأوراق وإزالة النباتات المصابة."
+      ]
+    },
+    "SRC-UMD-MINT": {
+      "publisher": "University of Maryland Extension",
+      "title": "Growing Mint in a Home Garden",
+      "url_or_identifier": "https://www.extension.umd.edu/resource/growing-mint-home-garden",
+      "published_year": 2026,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إكثار النعناع بالتقسيم والعقل؛ تفضيل الرطوبة المعتدلة والشمس إلى الظل الجزئي؛ الحصاد المتكرر قبل الإزهار للأوراق؛ إرشادات النعناع الأخضر Mentha spicata."
+      ]
+    },
+    "SRC-ILLINOIS-THYME": {
+      "publisher": "University of Illinois Extension",
+      "title": "Thyme – Herb Gardening",
+      "url_or_identifier": "https://extension.illinois.edu/herbs/thyme",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "خصائص الزعتر Thymus vulgaris؛ احتياجه للشمس والصرف الجيد؛ الإكثار بالعقل أو التقسيم؛ تجديد النباتات المتخشبة والحصاد قبل الإزهار."
+      ]
+    },
+    "SRC-RHS-HERBS": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "Herbs: Growing and Harvesting",
+      "url_or_identifier": "https://www.rhs.org.uk/herbs/growing%20",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "مبادئ العناية بالزعتر والمريمية وإكليل الجبل؛ تفضيل الشمس والتربة جيدة الصرف وتجنب التربة الثقيلة الرطبة؛ تقليم خفيف وحصاد الأوراق."
+      ]
+    },
+    "SRC-RHS-ROSEMARY": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to Grow Rosemary",
+      "url_or_identifier": "https://www.rhs.org.uk/herbs/rosemary/grow-your-own",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "إكليل الجبل Salvia rosmarinus؛ الشمس والتربة الحرة الصرف وحساسية الجذور للتغدق؛ تحمله النسبي للجفاف بعد التأسيس والإكثار بالعقل."
+      ]
+    },
+    "SRC-RHS-SAGE": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to Grow Sage",
+      "url_or_identifier": "https://www.rhs.org.uk/herbs/sage/grow-your-own",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "المريمية Salvia officinalis؛ شجيرة معمرة محبة للشمس والتربة جيدة الصرف؛ عدم الخلط بينها وبين الأنواع الأخرى المسماة Sage."
+      ]
+    },
+    "SRC-UCANR-CHAMOMILE": {
+      "publisher": "University of California Agriculture and Natural Resources – UC Master Gardener Program",
+      "title": "Chamomile Fact Sheet",
+      "url_or_identifier": "https://ucanr.edu/sites/default/files/2025-04/FactSheet_Herb_Chamomile_2021.03.22.pdf",
+      "published_year": 2021,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "البابونج الألماني Matricaria chamomilla نبات حولي؛ حصاد الرؤوس عند اكتمال تفتحها قبل جفاف البتلات؛ يميّزه عن البابونج الروماني المعمر Chamaemelum nobile."
+      ]
+    },
+    "SRC-UANBAR-MEDICINAL": {
+      "publisher": "Iraqi Journal of Desert Studies – University of Anbar",
+      "title": "Medical significance of some cultivated species and their investment aspects in Anbar Province",
+      "url_or_identifier": "https://doi.org/10.36531/desert.2022.172741",
+      "published_year": 2021,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "دراسة عراقية عن زراعة نباتات طبية وعطرية في الأنبار وتشمل اليانسون والكمون والشمر؛ دليل على وجود اهتمام/زراعة في الأنبار فقط ولا يجوز تعميم مواعيدها أو نجاحها على بابل."
+      ]
+    },
+    "SRC-PEERJ-NIGELLA-2026": {
+      "publisher": "PeerJ",
+      "title": "Optimizing black cumin (Nigella sativa L.) productivity under semi-arid conditions: effects of sowing date and seed rate on seed yield and oil content",
+      "url_or_identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13492348/",
+      "published_year": 2026,
+      "supports": [
+        "تجربة حقلية في مناخ شبه جاف خارج العراق؛ تؤكد حساسية إنتاج حبة البركة لموعد الزراعة والحرارة خلال الطور التكاثري وكثافة البذار؛ لا تنقل مواعيدها أو معدلاتها مباشرة إلى بابل."
+      ]
+    },
+    "SRC-TNAU-FENUGREEK": {
+      "publisher": "Tamil Nadu Agricultural University",
+      "title": "Crop Production Guide – Fenugreek",
+      "url_or_identifier": "https://tnau.ac.in/site/research/wp-content/uploads/sites/60/2020/02/Horticulture-CPG-2020.pdf",
+      "published_year": 2020,
+      "supports": [
+        "مرجع إرشادي لزراعة الحلبة في جنوب الهند؛ يصفها كمحصول موسم معتدل ويورد خدمة المحصول في بيئة تاميل نادو؛ لا تنقل جرعات NPK أو مواعيد الزراعة إلى العراق."
+      ]
+    },
+    "SRC-PROSEA-FENUGREEK": {
+      "publisher": "Plant Resources of South-East Asia (PROSEA)",
+      "title": "Trigonella foenum-graecum",
+      "url_or_identifier": "https://plantuse.plantnet.org/en/Trigonella_foenum-graecum_%28PROSEA%29",
+      "published_year": null,
+      "supports": [
+        "الحلبة بقولية قادرة على تثبيت النيتروجين؛ تناسبها تربة جيدة الصرف؛ تتأثر منافستها بالحشائش؛ الاحتياجات السمادية تتغير حسب الغرض والتربة."
+      ]
+    },
+    "SRC-RHS-TURMERIC": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Curcuma longa – common turmeric",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/5091/curcuma-longa/details",
+      "published_year": null,
+      "supports": [
+        "الكركم نبات ريزومي استوائي؛ الإكثار بتقسيم الريزومات؛ يحتاج وسطاً رطباً باعتدال وجيد الصرف ودفئاً؛ لا يقدم تقويماً للعراق."
+      ]
+    },
+    "SRC-PROSEA-TURMERIC": {
+      "publisher": "PROSEA / PlantUse",
+      "title": "Curcuma longa (PROSEA)",
+      "url_or_identifier": "https://plantuse.plantnet.org/en/Curcuma_longa_%28PROSEA%29",
+      "published_year": null,
+      "supports": [
+        "متطلبات الكركم الدافئة والرطبة نسبياً، تفضيل التربة المفككة الجيدة الصرف والظل الجزئي، وحساسيته للتغدق؛ القيم المناخية مرجعية وليست توصية محلية لبابل."
+      ]
+    },
+    "SRC-RHS-GINGER": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Zingiber officinale – common ginger",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/19233/zingiber-officinale/details",
+      "published_year": null,
+      "supports": [
+        "الزنجبيل ريزومي استوائي؛ الإكثار بقطع ريزوم ذات براعم؛ يحتاج وسطاً دافئاً رطباً جيد الصرف وضوءاً مرشحاً؛ غير مناسب لتعميم الحقول المكشوفة الحارة دون تجربة."
+      ]
+    },
+    "SRC-IFAS-GINGER": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Ginger – Gardening Solutions",
+      "url_or_identifier": "https://gardeningsolutions.ifas.ufl.edu/plants/edibles/vegetables/ginger/",
+      "published_year": null,
+      "supports": [
+        "إرشادات إكثار الزنجبيل بقطع الريزوم، الظل الجزئي، رطوبة التربة والحصاد بعد اكتمال الريزوم؛ ظروف فلوريدا لا تمثل بابل."
+      ]
+    },
+    "SRC-RHS-LAVENDER": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow lavender",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/lavender/growing-guide/",
+      "published_year": null,
+      "supports": [
+        "الخزامى يحتاج الشمس والصرف السريع؛ لا يتحمل التربة الثقيلة المشبعة؛ يفضل التقليم الخفيف وعدم القطع في الخشب القديم؛ الأنواع والأصناف تختلف."
+      ]
+    },
+    "SRC-RHS-MARJORAM": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Origanum majorana – sweet marjoram",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/11919/origanum-majorana/details",
+      "published_year": null,
+      "supports": [
+        "المردقوش الحلو Origanum majorana نبات عطري محب للشمس والتربة الجيدة الصرف؛ الإكثار بالبذور أو التقسيم أو العقل القاعدية؛ حساس للصقيع والرطوبة الشتوية الزائدة."
+      ]
+    },
+    "SRC-RHS-SAFFRON": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Saffron: Growing and Harvesting",
+      "url_or_identifier": "https://www.rhs.org.uk/herbs/saffron",
+      "published_year": null,
+      "supports": [
+        "الزعفران Crocus sativus يزرع بالكورمات لا بالبذور؛ الإزهار خريفي ثم نمو الأوراق حتى الربيع والسكون بعد ذلك؛ يحتاج موقعاً مشمساً جيد الصرف. مواعيد RHS في مناخ بريطانيا لا تنقل إلى بابل."
+      ]
+    },
+    "SRC-UVM-SAFFRON": {
+      "publisher": "University of Vermont – North American Center for Saffron Research and Development",
+      "title": "Saffron Cultivation: Descriptions of Planting Methods",
+      "url_or_identifier": "https://www.uvm.edu/~saffron/pages/factsheets/SaffronplantingSept2021.pdf",
+      "published_year": 2021,
+      "supports": [
+        "الزعفران عقيم ولا ينتج بذوراً خصبة ويتكاثر بالكورمات البنات؛ جودة وحجم الكورمة والصرف عوامل مهمة؛ إرشادات فيرمونت ليست برنامجاً محلياً لبابل."
+      ]
+    },
+    "SRC-RHS-LEMONGRASS": {
+      "publisher": "Royal Horticultural Society",
+      "title": "Cymbopogon citratus – lemon grass",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/22170/cymbopogon-citratus/details",
+      "published_year": null,
+      "supports": [
+        "حشيشة الليمون عشب معمر عطري؛ الإكثار بالتقسيم أو البذور؛ يفضل الدفء والضوء والرطوبة المعتدلة؛ حساس للبرد الشديد."
+      ]
+    },
+    "SRC-WISCONSIN-LEMONGRASS": {
+      "publisher": "University of Wisconsin–Madison Extension",
+      "title": "Lemongrass, Cymbopogon spp.",
+      "url_or_identifier": "https://hort.extension.wisc.edu/articles/lemongrass/",
+      "published_year": 2026,
+      "supports": [
+        "حشيشة الليمون تحتاج الدفء والشمس والرطوبة؛ الصقيع يضرها؛ الإكثار بالتقسيم؛ تجنب الإفراط بالري وتعفن الجذور."
+      ]
+    },
+    "SRC-IASC-ALOE": {
+      "publisher": "International Aloe Science Council",
+      "title": "Aloe vera: A Scientific Primer",
+      "url_or_identifier": "https://www.iasc.org/Files/Downloads/IASC_Aloe_vera_A_Scientific_Primer.pdf",
+      "published_year": 2009,
+      "supports": [
+        "إكثار الألوفيرا بالخلفات؛ أساليب الزراعة التجارية والإدارة النباتية؛ لا يثبت سلامة الاستهلاك الطبي."
+      ]
+    },
+    "SRC-REVIEW-ALOE": {
+      "publisher": "Peer-reviewed review (PMC)",
+      "title": "Propagation Techniques and Agronomic Requirements for the Cultivation of Barbados Aloe (Aloe vera): A Review",
+      "url_or_identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5033982/",
+      "published_year": 2016,
+      "supports": [
+        "متطلبات الألوفيرا المناخية والصرف والتكاثر؛ تحذير من التغدق ومشكلات الجذور؛ مراجعة عامة وليست تجربة بابل."
+      ]
+    },
+    "SRC-NCCIH-ALOE": {
+      "publisher": "US National Center for Complementary and Integrative Health (NCCIH)",
+      "title": "Aloe Vera: Usefulness and Safety",
+      "url_or_identifier": "https://www.nccih.nih.gov/health/aloe-vera",
+      "published_year": 2025,
+      "supports": [
+        "تمييز جل الورقة الداخلي عن اللاتكس الأصفر؛ تناول اللاتكس قد يسبب مغصاً وإسهالاً ومخاطر أخرى؛ معلومات سلامة بشرية وليست توصية زراعية أو علاجية."
+      ]
+    },
+    "SRC-JAR-BLACK-CUMIN-2024": {
+      "publisher": "Journal of Agricultural Research / Agriculture Department, Government of Punjab",
+      "title": "Standardization of Planting Time and Seed Rate of Black Cumin (Nigella sativa L.) in South Punjab",
+      "url_or_identifier": "https://jaragri.com/jar/index.php/jar/article/download/46/75",
+      "published_year": 2024,
+      "supports": [
+        "تجربة حقلية في جنوب البنجاب على مواعيد ومعدلات بذار حبة البركة؛ لا تنقل نتائجها إلى بابل دون تجربة محلية."
+      ]
+    },
+    "SRC-NCSU-POTHOS": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Epipremnum aureum – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/epipremnum-aureum/",
+      "published_year": null,
+      "supports": [
+        "هوية البوتس وخصائصه كنبات متسلق منزلي؛ الإكثار بالعقل الساقية؛ السمية بأكسالات الكالسيوم."
+      ]
+    },
+    "SRC-UTAH-POTHOS": {
+      "publisher": "University of Utah Health Poison Control",
+      "title": "Pothos / Devil’s Ivy",
+      "url_or_identifier": "https://poisoncontrol.utah.edu/plant-guide/pothos",
+      "published_year": null,
+      "supports": [
+        "تأثير مضغ البوتس وكونه مهيجاً للفم والجهاز الهضمي؛ مرجع سمية وليس برنامج عناية."
+      ]
+    },
+    "SRC-NCSU-SNAKE": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Dracaena trifasciata – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/dracaena-trifasciata/",
+      "published_year": null,
+      "supports": [
+        "الاسم العلمي الحديث Dracaena trifasciata والاسم السابق Sansevieria trifasciata؛ إضاءة منخفضة إلى ساطعة غير مباشرة؛ تجفيف الوسط بين الريات؛ خطر تعفن الجذور والآفات الشائعة."
+      ]
+    },
+    "SRC-ASPCA-SNAKE": {
+      "publisher": "ASPCA Animal Poison Control",
+      "title": "Snake Plant – Toxic and Non-Toxic Plants",
+      "url_or_identifier": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/snake-plant",
+      "published_year": null,
+      "supports": [
+        "سمية السانسيفيريا للحيوانات الأليفة وارتباطها بالصابونينات وأعراض القيء والإسهال."
+      ]
+    },
+    "SRC-NCSU-ZZ": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Zamioculcas zamiifolia – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/zamioculcas-zamiifolia/",
+      "published_year": null,
+      "supports": [
+        "الريزومات المخزنة للماء؛ الحاجة إلى وسط جيد الصرف وتركه يجف بين الريات؛ الإكثار بالتقسيم أو عقل الأوراق؛ السمية وأعراض الابتلاع."
+      ]
+    },
+    "SRC-UF-ZZ": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Florida Foliage House Plant Care: ZZ Plant",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/EP480",
+      "published_year": null,
+      "supports": [
+        "إرشادات النبات المنزلي: وسط صرف، ضوء منخفض إلى ساطع مرشح، تجنب بقاء الجذور بالماء، تسميد منخفض حسب الملصق، وخطر تعفن الريزوم."
+      ]
+    },
+    "SRC-RHS-DRACAENA": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow dracaena",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/dracaena/how-to-grow-dracaena",
+      "published_year": null,
+      "supports": [
+        "إرشادات عامة لجنس Dracaena: الدفء والضوء غير المباشر وحساسية الفلورايد والسمية؛ لا تكفي لتحديد احتياجات كل نوع ضمن Dracaena spp."
+      ]
+    },
+    "SRC-CLEMSON-DRACAENA": {
+      "publisher": "Clemson Cooperative Extension – Home & Garden Information Center",
+      "title": "Dracaena",
+      "url_or_identifier": "https://hgic.clemson.edu/factsheet/dracaena/",
+      "published_year": null,
+      "supports": [
+        "حساسية أنواع الدراسينا للفلورايد؛ احتراق أطراف الأوراق؛ الجفاف النسبي بين الريات؛ أسباب اصفرار وتساقط الأوراق."
+      ]
+    },
+    "SRC-NCSU-RUBBER": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Ficus elastica – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/ficus-elastica/",
+      "published_year": null,
+      "supports": [
+        "إضاءة داخلية ساطعة غير مباشرة؛ تجنب الإفراط بالري والبرد والتيارات؛ الآفات مثل البق الدقيقي والحشرات القشرية والعنكبوت الأحمر؛ العصارة اللبنية."
+      ]
+    },
+    "SRC-CLEMSON-RUBBER": {
+      "publisher": "Clemson Cooperative Extension – Home & Garden Information Center",
+      "title": "Rubber Plant (Ficus elastica)",
+      "url_or_identifier": "https://hgic.clemson.edu/factsheet/rubber-plant/",
+      "published_year": null,
+      "supports": [
+        "خصائص فيكس المطاط والعناية المنزلية والإضاءة والحرارة والتقليم."
+      ]
+    },
+    "SRC-NCSU-BENJAMINA": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Ficus benjamina – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/ficus-benjamina/",
+      "published_year": null,
+      "supports": [
+        "حساسية النبات لتغيير الضوء والموقع وتساقط الأوراق؛ الري والتربة والبرودة والآفات والإكثار بالعقل."
+      ]
+    },
+    "SRC-PNW-BENJAMINA": {
+      "publisher": "Pacific Northwest Plant Disease Management Handbooks",
+      "title": "Weeping Fig – Ficus benjamina – Leaf Drop",
+      "url_or_identifier": "https://pnwhandbooks.org/plantdisease/host-disease/weeping-fig-ficus-benjamina-leaf-drop",
+      "published_year": null,
+      "supports": [
+        "تساقط أوراق الفيكس البنجمينا كاستجابة فسيولوجية لتغير الضوء والحرارة والتيارات أو الري غير المتوازن؛ لا يعني بالضرورة مرضاً معدياً."
+      ]
+    },
+    "SRC-PENN-MONSTERA": {
+      "publisher": "Penn State Extension",
+      "title": "Monstera as a Houseplant",
+      "url_or_identifier": "https://extension.psu.edu/monstera-as-a-houseplant",
+      "published_year": null,
+      "supports": [
+        "خصائص المونستيرا المنزلية والحاجة إلى دعامة تسلق والسمية بأكسالات الكالسيوم والتحذير من الابتلاع."
+      ]
+    },
+    "SRC-ASPCA-MONSTERA": {
+      "publisher": "ASPCA Animal Poison Control",
+      "title": "Monstera deliciosa – Toxic and Non-Toxic Plants",
+      "url_or_identifier": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mother-law",
+      "published_year": null,
+      "supports": [
+        "سمية المونستيرا للقطط والكلاب بسبب بلورات أكسالات الكالسيوم وأعراض تهيج الفم."
+      ]
+    },
+    "SRC-UF-SPATH": {
+      "publisher": "University of Florida IFAS Extension",
+      "title": "Florida Foliage House Plant Care: Spathiphyllum",
+      "url_or_identifier": "https://ask.ifas.ufl.edu/publication/EP477",
+      "published_year": null,
+      "supports": [
+        "السباثيفيلوم: ضوء ساطع غير مباشر؛ وسط عضوي رطب دون إغراق؛ حساسية للجفاف؛ تسميد مخفف حسب الملصق."
+      ]
+    },
+    "SRC-MSD-OXALATE": {
+      "publisher": "MSD Veterinary Manual",
+      "title": "Houseplants and Ornamentals Toxic to Animals",
+      "url_or_identifier": "https://www.msdvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals",
+      "published_year": null,
+      "supports": [
+        "أكسالات الكالسيوم غير الذائبة في نباتات منها Spathiphyllum وAnthurium وAglaonema وEpipremnum وMonstera؛ تسبب تهيجاً وألماً وتورماً بالفم عند المضغ."
+      ]
+    },
+    "SRC-NCSU-ANTHURIUM": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Anthurium andraeanum – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/anthurium-andraeanum/",
+      "published_year": null,
+      "supports": [
+        "ظروف الأنثوريوم الدافئة والرطبة والضوء غير المباشر والوسط الرطب الجيد الصرف؛ الإكثار بالتقسيم أو العقل؛ السمية بأكسالات الكالسيوم."
+      ]
+    },
+    "SRC-RHS-ANTHURIUM": {
+      "publisher": "Royal Horticultural Society",
+      "title": "How to grow anthuriums",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/anthuriums/how-to-grow-anthuriums",
+      "published_year": null,
+      "supports": [
+        "احتياج الأنثوريوم لرطوبة مناسبة ووسط هوائي والاحتياطات عند التعامل بسبب مركبات مهيجة/سامة."
+      ]
+    },
+    "SRC-CLEMSON-AGLAONEMA": {
+      "publisher": "Clemson Cooperative Extension – Home & Garden Information Center",
+      "title": "Chinese Evergreen (Aglaonema) Care, Cultivation & Growing Guide",
+      "url_or_identifier": "https://hgic.clemson.edu/factsheet/chinese-evergreen-aglaonema-care-cultivation-growing-guide/",
+      "published_year": null,
+      "supports": [
+        "الأجلونيما كنبات منزلي يتحمل الإضاءة المنخفضة؛ الوسط والري ودرجة الحرارة والسمية للحيوانات الأليفة."
+      ]
+    },
+    "SRC-NPARKS-AGLAONEMA": {
+      "publisher": "National Parks Board Singapore",
+      "title": "Aglaonema commutatum",
+      "url_or_identifier": "https://www.nparks.gov.sg/florafaunaweb/flora/1/6/1611",
+      "published_year": null,
+      "supports": [
+        "إضاءة منتشرة أو ظل؛ الإكثار بالتقسيم والعقل؛ الإفراط بالري يسبب تعفن الجذور واصفرار الأوراق؛ جميع الأجزاء سامة عند الابتلاع."
+      ]
+    },
+    "SRC-NCSU-GOEP": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Goeppertia orbifolia – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/goeppertia-orbifolia/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تحديث الاسم الحديث Goeppertia بدلاً من Calathea لبعض الأنواع؛ ضوء غير مباشر ورطوبة وسط متوازنة وماء منخفض الفلورايد"
+      ]
+    },
+    "SRC-RHS-CODIAEUM": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow codiaeum",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/codiaeum/growing-guide",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الكروتون: ضوء ساطع مرشح، دفء ورطوبة جوية، حساسية البرد وجفاف الهواء والعصارة المهيجة والسمية"
+      ]
+    },
+    "SRC-RHS-HEPT": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "Heptapleurum arboricola – Plant Profile",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/187874/heptapleurum-arboricola/details",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الاسم المقبول Heptapleurum arboricola والمرادف Schefflera arboricola؛ ضوء نصف ظل ووسط رطب جيد الصرف"
+      ]
+    },
+    "SRC-RHS-ASPID": {
+      "publisher": "Royal Horticultural Society (RHS)",
+      "title": "How to grow aspidistras",
+      "url_or_identifier": "https://www.rhs.org.uk/plants/aspidistra/how-to-grow-aspidistras",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "بطء النمو، تحمل الضوء المنخفض، إعادة الزراعة عند ازدحام الجذور، وسط جيد الصرف"
+      ]
+    },
+    "SRC-NCSU-NEPH": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Boston Fern – Nephrolepis exaltata",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/nephrolepis-exaltata/common-name/boston-fern/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "ضوء غير مباشر ورطوبة جوية مرتفعة ووسط رطب باستمرار دون تغدق؛ الأبواغ ليست آفة"
+      ]
+    },
+    "SRC-NCSU-DIEFF": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Dieffenbachia seguine – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/dieffenbachia-seguine/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "سمية عالية بسبب بلورات أكسالات الكالسيوم؛ تهيج وتورم الفم واللسان والحلق والعصارة؛ العناية المنزلية والإكثار"
+      ]
+    },
+    "SRC-NCSU-COLEUS": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Coleus scutellarioides – Plant Toolbox (accepted name and former synonym)",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/coleus-scutellarioides/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "الاسم العلمي المقبول Coleus scutellarioides والمرادف Plectranthus scutellarioides؛ قرط القمم والعقل الساقية والضوء"
+      ]
+    },
+    "SRC-NCSU-ALOE": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Aloe vera – Plant Toolbox",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/aloe-vera/common-name/aloe-vera/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تجفيف الوسط بين الريات والصرف السريع والضوء والتكاثر بالخلفات؛ تحذير من ابتلاع العصارة/اللاتكس"
+      ]
+    },
+    "SRC-UMN-CACTI": {
+      "publisher": "University of Minnesota Extension",
+      "title": "Cacti and succulents",
+      "url_or_identifier": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/cacti-and-succulents",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "احتياج الضوء والصرف والري بعد جفاف الوسط وتقليل الماء في الشتاء؛ اختلاف احتياجات الصبارات حسب النوع"
+      ]
+    },
+    "SRC-NCSU-COLEUS-TOX": {
+      "publisher": "North Carolina State University Extension",
+      "title": "Coleus scutellarioides – Toxicity and culture",
+      "url_or_identifier": "https://plants.ces.ncsu.edu/plants/coleus-scutellarioides/",
+      "published_year": null,
+      "accessed_on": "2026-11-19",
+      "supports": [
+        "تهيج جلدي خفيف محتمل عند التلامس المتكرر؛ تجنب تعميم سمية عالية"
+      ]
+    }
+  }
+}

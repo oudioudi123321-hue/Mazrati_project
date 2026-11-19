@@ -1,0 +1,2771 @@
+{
+  "dataset": "MAZRATI",
+  "version": "1.33.0",
+  "language": "ar-IQ",
+  "country": "IQ",
+  "information_level": "expert",
+  "initial_plant_count": 150,
+  "plants": [
+    {
+      "id": "P001",
+      "name_ar": "طماطم",
+      "scientific_name": "Solanum lycopersicum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.iq.cropscience.bayer.com/ar-iq/crops/tomato.html",
+        "https://ejs-agri.com/index.php/EJAS/article/view/538",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P002",
+      "name_ar": "خيار",
+      "scientific_name": "Cucumis sativus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P003",
+      "name_ar": "باذنجان",
+      "scientific_name": "Solanum melongena",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P004",
+      "name_ar": "فلفل حلو",
+      "scientific_name": "Capsicum annuum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P005",
+      "name_ar": "فلفل حار",
+      "scientific_name": "Capsicum annuum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P006",
+      "name_ar": "بطاطا",
+      "scientific_name": "Solanum tuberosum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.iq.cropscience.bayer.com/en-iq/crops/potato.html",
+        "https://ejs-agri.com/index.php/EJAS/article/view/538",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P007",
+      "name_ar": "بطاطا حلوة",
+      "scientific_name": "Ipomoea batatas",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://www.fao.org/4/t0554e/T0554E14.htm",
+        "https://agrhysmo.agr.unipi.it/wp-content/uploads/2025/09/FAO56%202025.pdf",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P008",
+      "name_ar": "بصل",
+      "scientific_name": "Allium cepa",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm",
+        "https://agrhysmo.agr.unipi.it/wp-content/uploads/2025/09/FAO56%202025.pdf"
+      ]
+    },
+    {
+      "id": "P009",
+      "name_ar": "ثوم",
+      "scientific_name": "Allium sativum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://agrhysmo.agr.unipi.it/wp-content/uploads/2025/09/FAO56%202025.pdf",
+        "https://iobc-wprs.org/ip-tools/general-and-crop-specific-ip-guidelines/veg_onions/",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P010",
+      "name_ar": "خس",
+      "scientific_name": "Lactuca sativa",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.17.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P011",
+      "name_ar": "ملفوف",
+      "scientific_name": "Brassica oleracea var. capitata",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/cabbage/al-hillah",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P012",
+      "name_ar": "قرنبيط",
+      "scientific_name": "Brassica oleracea var. botrytis",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/cauliflower/al-hillah",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P013",
+      "name_ar": "بروكلي",
+      "scientific_name": "Brassica oleracea var. italica",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/broccoli/al-hillah",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P014",
+      "name_ar": "سبانخ",
+      "scientific_name": "Spinacia oleracea",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P015",
+      "name_ar": "سلق",
+      "scientific_name": "Beta vulgaris subsp. vulgaris",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/chard/al-hillah"
+      ]
+    },
+    {
+      "id": "P016",
+      "name_ar": "جرجير",
+      "scientific_name": "Eruca vesicaria",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://gardening.cals.cornell.edu/garden-guidance/foodgarden/vegetable-growing-guides/arugula/",
+        "https://plants.ces.ncsu.edu/plants/eruca-vesicaria/",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm"
+      ]
+    },
+    {
+      "id": "P017",
+      "name_ar": "فجل",
+      "scientific_name": "Raphanus sativus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/radish/al-hillah",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P018",
+      "name_ar": "لفت",
+      "scientific_name": "Brassica rapa subsp. rapa",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://www.pubs.ext.vt.edu/content/pubs_ext_vt_edu/en/426/426-422/426-422.html",
+        "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-turnips-and-rutabagas",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced"
+      ]
+    },
+    {
+      "id": "P019",
+      "name_ar": "جزر",
+      "scientific_name": "Daucus carota subsp. sativus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P020",
+      "name_ar": "شمندر",
+      "scientific_name": "Beta vulgaris",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.18.0",
+      "sources": [
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://safetoplant.com/when-to-plant/beetroot/al-hillah"
+      ]
+    },
+    {
+      "id": "P021",
+      "name_ar": "بامية",
+      "scientific_name": "Abelmoschus esculentus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://en.964media.com/28427/",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P022",
+      "name_ar": "فاصوليا خضراء",
+      "scientific_name": "Phaseolus vulgaris",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P023",
+      "name_ar": "لوبيا",
+      "scientific_name": "Vigna unguiculata",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P024",
+      "name_ar": "بازلاء",
+      "scientific_name": "Pisum sativum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P025",
+      "name_ar": "ملوخية",
+      "scientific_name": "Corchorus olitorius",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P026",
+      "name_ar": "كوسة",
+      "scientific_name": "Cucurbita pepo",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P027",
+      "name_ar": "قرع",
+      "scientific_name": "Cucurbita pepo",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P028",
+      "name_ar": "يقطين",
+      "scientific_name": "Cucurbita maxima",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P029",
+      "name_ar": "شمام",
+      "scientific_name": "Cucumis melo",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P030",
+      "name_ar": "بطيخ",
+      "scientific_name": "Citrullus lanatus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_local_babil_agronomist_review",
+      "profile_version": "1.19.0",
+      "sources": [
+        "https://uomosul.edu.iq/agriculture/wp-content/uploads/sites/11/2023/09/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%AE%D8%B6%D8%B1-%D9%86%D8%B8%D8%B1%D9%8A_compressed.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://www.fao.org/4/y9870e/y9870e07.htm",
+        "https://safetoplant.com/planting-calendar/al-hillah?risk=balanced",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://doi.org/10.24996/ijs.2019.60.9.24",
+        "https://www.fao.org/4/x0490e/x0490e0b.htm"
+      ]
+    },
+    {
+      "id": "P031",
+      "name_ar": "ذرة حلوة",
+      "scientific_name": "Zea mays var. saccharata",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P032",
+      "name_ar": "بقدونس",
+      "scientific_name": "Petroselinum crispum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf",
+        "https://doi.org/10.1016/j.agwat.2020.106196"
+      ]
+    },
+    {
+      "id": "P033",
+      "name_ar": "كزبرة",
+      "scientific_name": "Coriandrum sativum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://doi.org/10.1016/j.agwat.2020.106196",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P034",
+      "name_ar": "شبت",
+      "scientific_name": "Anethum graveolens",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P035",
+      "name_ar": "كرفس",
+      "scientific_name": "Apium graveolens",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P036",
+      "name_ar": "كراث",
+      "scientific_name": "Allium ampeloprasum var. porrum",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P037",
+      "name_ar": "خرشوف",
+      "scientific_name": "Cynara cardunculus var. scolymus",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P038",
+      "name_ar": "هليون",
+      "scientific_name": "Asparagus officinalis",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://extension.okstate.edu/fact-sheets/asparagus-production",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P039",
+      "name_ar": "فول أخضر",
+      "scientific_name": "Vicia faba",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P040",
+      "name_ar": "فاصوليا يابسة",
+      "scientific_name": "Phaseolus vulgaris",
+      "category": "خضروات",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": "1.20.0",
+      "sources": [
+        "https://sustainability.uobabylon.edu.iq/uploaded/Sustain_2020_11229669.pdf",
+        "https://iosrjournals.org/iosr-jagg/papers/vol3-issue4/Version-1/E03412936.pdf",
+        "https://www.fao.org/4/S2022E/s2022e07.htm",
+        "https://uomosul.edu.iq/regionalstudiescenter/wp-content/uploads/sites/31/2024/05/10.-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%D9%8A-78-108.pdf",
+        "https://www.fao.org/4/X0490E/x0490e0b.htm",
+        "https://cloud.uobasrah.edu.iq/uploads/2021/10/25/5488HortiDAP.pdf"
+      ]
+    },
+    {
+      "id": "P041",
+      "name_ar": "نخيل التمر",
+      "scientific_name": "Phoenix dactylifera",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://ejtas.com/index.php/journal/article/view/68",
+        "https://agris.fao.org/search/en/providers/125623/records/6878e9610868163a2f7527a7",
+        "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/3980",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm"
+      ]
+    },
+    {
+      "id": "P042",
+      "name_ar": "زيتون",
+      "scientific_name": "Olea europaea",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P043",
+      "name_ar": "رمان",
+      "scientific_name": "Punica granatum",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P044",
+      "name_ar": "تين",
+      "scientific_name": "Ficus carica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P045",
+      "name_ar": "عنب",
+      "scientific_name": "Vitis vinifera",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm"
+      ]
+    },
+    {
+      "id": "P046",
+      "name_ar": "حمضيات - برتقال",
+      "scientific_name": "Citrus sinensis",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.iq.cropscience.bayer.com/en-iq/crops/citrus.html",
+        "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D9%85%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%84%D8%B3%D9%86%D8%A9%202018.pdf",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P047",
+      "name_ar": "حمضيات - ليمون",
+      "scientific_name": "Citrus limon",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.iq.cropscience.bayer.com/en-iq/crops/citrus.html",
+        "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D9%85%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%84%D8%B3%D9%86%D8%A9%202018.pdf",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P048",
+      "name_ar": "حمضيات - نارنج",
+      "scientific_name": "Citrus aurantium",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.iq.cropscience.bayer.com/en-iq/crops/citrus.html",
+        "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D9%85%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%84%D8%B3%D9%86%D8%A9%202018.pdf",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P049",
+      "name_ar": "حمضيات - يوسفي",
+      "scientific_name": "Citrus reticulata",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.iq.cropscience.bayer.com/en-iq/crops/citrus.html",
+        "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D9%85%D8%B6%D9%8A%D8%A7%D8%AA%20%D9%84%D8%B3%D9%86%D8%A9%202018.pdf",
+        "https://coagri.uobaghdad.edu.iq/wp-content/uploads/sites/10/uploads/1%20hort%20dep.%20Aseel/hort%20lectures/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6%20%D8%A8%D8%B3%D8%AA%D9%86%D8%A9%20%D9%86%D8%B8%D8%B1%D9%8A%20%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%88%D9%84%D9%89%20%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.pdf"
+      ]
+    },
+    {
+      "id": "P050",
+      "name_ar": "تفاح",
+      "scientific_name": "Malus domestica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.tjas.org/article_586_605ff764c617d3cd28dbbdd72be8f9a2.pdf",
+        "https://www.tjas.org/article_586.html",
+        "https://www.seejph.com/index.php/seejph/article/view/993"
+      ]
+    },
+    {
+      "id": "P051",
+      "name_ar": "كمثرى",
+      "scientific_name": "Pyrus communis",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm",
+        "https://mail.server.cosit.gov.iq/documents/agriculture/agri_other/full%20reports/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%86%D8%AA%D8%A7%D8%AC%20%D8%A7%D8%B4%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9%20%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9%20%D9%84%D8%B3%D9%86%D8%A9%202016.pdf"
+      ]
+    },
+    {
+      "id": "P052",
+      "name_ar": "سفرجل",
+      "scientific_name": "Cydonia oblonga",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P053",
+      "name_ar": "مشمش",
+      "scientific_name": "Prunus armeniaca",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm",
+        "https://ntu.edu.iq/wp-content/uploads/2023/09/مشاتل%20نظري-2019_3.pdf"
+      ]
+    },
+    {
+      "id": "P054",
+      "name_ar": "خوخ",
+      "scientific_name": "Prunus persica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P055",
+      "name_ar": "دراق",
+      "scientific_name": "Prunus persica var. nucipersica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P056",
+      "name_ar": "برقوق",
+      "scientific_name": "Prunus domestica / Prunus salicina",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P057",
+      "name_ar": "كرز",
+      "scientific_name": "Prunus avium / Prunus cerasus",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P058",
+      "name_ar": "لوز",
+      "scientific_name": "Prunus dulcis",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://uomus.edu.iq/DepartmentEn/Details/102035",
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm"
+      ]
+    },
+    {
+      "id": "P059",
+      "name_ar": "جوز",
+      "scientific_name": "Juglans regia",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P060",
+      "name_ar": "فستق حلبي",
+      "scientific_name": "Pistacia vera",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://mrcc.purdue.edu/about-custom-chilling-hours-tool",
+        "https://www.fao.org/4/y4360e/y4360e0a.htm",
+        "https://www.fao.org/4/Y9870E/y9870e07.htm"
+      ]
+    },
+    {
+      "id": "P061",
+      "name_ar": "توت",
+      "scientific_name": "Morus alba (مجموعة أنواع التوت Morus spp.)",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://jeh.uomosul.edu.iq/index.php/jeh/en/article/view/51744",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P062",
+      "name_ar": "موز",
+      "scientific_name": "Musa acuminata × Musa balbisiana (الهجن المزروعة؛ الصنف يحدد المجموعة)",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://en.964media.com/29218/",
+        "https://www.fao.org/4/x5405e/x5405e0m.htm",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P063",
+      "name_ar": "مانجو",
+      "scientific_name": "Mangifera indica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/x5405e/x5405e0m.htm",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://link.springer.com/article/10.1007/s00271-024-00925-7"
+      ]
+    },
+    {
+      "id": "P064",
+      "name_ar": "جوافة",
+      "scientific_name": "Psidium guajava",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.fao.org/4/x5405e/x5405e0m.htm",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://link.springer.com/article/10.1007/s00271-024-00925-7"
+      ]
+    },
+    {
+      "id": "P065",
+      "name_ar": "أسكدنيا",
+      "scientific_name": "Eriobotrya japonica",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://jcoagri.uobaghdad.edu.iq/index.php/intro/article/download/402/320/",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P066",
+      "name_ar": "نبق",
+      "scientific_name": "Ziziphus spina-christi",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iasj.rdd.edu.iq/journals/uploads/2024/12/18/ba44b2f885990234bab581ce187fe0c5.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://link.springer.com/article/10.1007/s00271-024-00925-7"
+      ]
+    },
+    {
+      "id": "P067",
+      "name_ar": "كاكي",
+      "scientific_name": "Diospyros kaki",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://uomus.edu.iq/DepartmentEn/Details/102652",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P068",
+      "name_ar": "فراولة",
+      "scientific_name": "Fragaria × ananassa",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iasj.mohesr.gov.iq/journals/journal/issue/16601",
+        "https://iasj.mohesr.gov.iq/journals/journal/issue/20987",
+        "https://iasj.rdd.edu.iq/journals/uploads/2025/05/06/d84e4e954166489456fadba03d7c2111.pdf",
+        "https://uodiyala.edu.iq/33206/",
+        "https://ikprress.org/index.php/PCBMB/article/view/5451"
+      ]
+    },
+    {
+      "id": "P069",
+      "name_ar": "توت أرضي",
+      "scientific_name": "Fragaria × ananassa",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "alias_of_existing_plant",
+      "verification_status": "taxonomic_alias_confirmed_pending_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iasj.mohesr.gov.iq/journals/journal/issue/16601",
+        "https://iasj.mohesr.gov.iq/journals/journal/issue/20987",
+        "https://iasj.rdd.edu.iq/journals/uploads/2025/05/06/d84e4e954166489456fadba03d7c2111.pdf",
+        "https://uodiyala.edu.iq/33206/",
+        "https://ikprress.org/index.php/PCBMB/article/view/5451"
+      ],
+      "canonical_plant_id": "P068",
+      "record_relationship": "same_taxon_alias",
+      "relationship_note": "توت أرضي اسم شائع مرادف للفراولة؛ اربط البحث والمخزون بالسجل الأساسي.",
+      "alias_of": "P068",
+      "is_alias": true
+    },
+    {
+      "id": "P070",
+      "name_ar": "بابايا",
+      "scientific_name": "Carica papaya",
+      "category": "أشجار مثمرة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "source_checked",
+      "verification_status": "source_checked_pending_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://en.964media.com/7104/",
+        "https://www.fao.org/4/x5405e/x5405e0m.htm",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://link.springer.com/article/10.1007/s00271-024-00925-7"
+      ]
+    },
+    {
+      "id": "P071",
+      "name_ar": "حنطة",
+      "scientific_name": "Triticum aestivum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://cbej.uomustansiriyah.edu.iq/index.php/cbej/article/view/14524",
+        "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P072",
+      "name_ar": "شعير",
+      "scientific_name": "Hordeum vulgare",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://cbej.uomustansiriyah.edu.iq/index.php/cbej/article/view/14524",
+        "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm"
+      ]
+    },
+    {
+      "id": "P073",
+      "name_ar": "رز",
+      "scientific_name": "Oryza sativa",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/1649",
+        "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P074",
+      "name_ar": "ذرة صفراء",
+      "scientific_name": "Zea mays",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://cbej.uomustansiriyah.edu.iq/index.php/cbej/article/view/14524",
+        "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P075",
+      "name_ar": "ذرة بيضاء",
+      "scientific_name": "Zea mays",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "identity_confirmed_by_user_agronomic_profile_pending_local_review",
+      "profile_version": 2,
+      "sources": [
+        "https://iraq.un.org/sites/default/files/2022-10/cc2251en.pdf",
+        "https://cbej.uomustansiriyah.edu.iq/index.php/cbej/article/view/14524",
+        "https://www.fao.org/giews/countrybrief/country/IRQ/pdf_archive/IRQ_Archive.pdf",
+        "https://www.fao.org/4/s2022e/s2022e02.htm",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P076",
+      "name_ar": "قطن",
+      "scientific_name": "Gossypium hirsutum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.agroberichtenbuitenland.nl/site/binaries/site-content/collections/documents/2018/11/09/wageningen-iraq-agri-development-report-2018/Wageningen%2BIraq%2BAgri%2BDevelopment%2BReport%2B2018.pdf",
+        "https://data-in-emergencies.fao.org/documents/6a03a625e7ee44c08ce754993bdf4cf9/about",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P077",
+      "name_ar": "سمسم",
+      "scientific_name": "Sesamum indicum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://www.agroberichtenbuitenland.nl/site/binaries/site-content/collections/documents/2018/11/09/wageningen-iraq-agri-development-report-2018/Wageningen%2BIraq%2BAgri%2BDevelopment%2BReport%2B2018.pdf",
+        "https://data-in-emergencies.fao.org/documents/6a03a625e7ee44c08ce754993bdf4cf9/about",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P078",
+      "name_ar": "عباد الشمس",
+      "scientific_name": "Helianthus annuus",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://fjias.atu.edu.iq/index.php/dfg/article/view/73",
+        "https://fjias.atu.edu.iq/index.php/dfg/article/view/170",
+        "https://iraq.un.org/sites/default/files/2026-07/Iraq_AgFS_English_InfoNote2_0.pdf"
+      ]
+    },
+    {
+      "id": "P079",
+      "name_ar": "فول الصويا",
+      "scientific_name": "Glycine max",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://jcoagri.uobaghdad.edu.iq/index.php/intro/article/view/2434",
+        "https://medip.uokirkuk.edu.iq/article_186988.html"
+      ]
+    },
+    {
+      "id": "P080",
+      "name_ar": "عدس",
+      "scientific_name": "Lens culinaris",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق",
+        "وسط العراق",
+        "محافظة بابل – الحلة (إرشادي)"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "source_checked_needs_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "https://data-in-emergencies.fao.org/documents/6a03a625e7ee44c08ce754993bdf4cf9/about",
+        "https://cropcalendar.apps.fao.org/?pagename=%2Fwelcome.do"
+      ]
+    },
+    {
+      "id": "P081",
+      "name_ar": "حمص",
+      "scientific_name": "Cicer arietinum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER",
+        "https://oar.icrisat.org/535/1/RA_00152.pdf"
+      ]
+    },
+    {
+      "id": "P082",
+      "name_ar": "ماش",
+      "scientific_name": "Vigna radiata",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P083",
+      "name_ar": "ترمس",
+      "scientific_name": "Lupinus albus",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT"
+      ]
+    },
+    {
+      "id": "P084",
+      "name_ar": "برسيم",
+      "scientific_name": "Trifolium alexandrinum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER",
+        "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/4092"
+      ]
+    },
+    {
+      "id": "P085",
+      "name_ar": "جت (البرسيم الحجازي)",
+      "scientific_name": "Medicago sativa",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER",
+        "https://aladabj.uobaghdad.edu.iq/index.php/aladabjournal/article/view/4092"
+      ]
+    },
+    {
+      "id": "P086",
+      "name_ar": "شوندر سكري",
+      "scientific_name": "Beta vulgaris subsp. vulgaris (sugar beet group)",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P087",
+      "name_ar": "قصب السكر",
+      "scientific_name": "Saccharum officinarum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P088",
+      "name_ar": "دخن",
+      "scientific_name": "Pennisetum glaucum (syn. Cenchrus americanus)",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P089",
+      "name_ar": "قرطم",
+      "scientific_name": "Carthamus tinctorius",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P090",
+      "name_ar": "كتان",
+      "scientific_name": "Linum usitatissimum",
+      "category": "محاصيل حقلية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_requires_local_agronomist_review",
+      "profile_version": 1,
+      "sources": [
+        "SRC-FAO-IRAQ-CROPPROTECT",
+        "SRC-FAO-CROPWATER"
+      ]
+    },
+    {
+      "id": "P091",
+      "name_ar": "ورد جوري",
+      "scientific_name": "Rosa × hybrida",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P092",
+      "name_ar": "ياسمين",
+      "scientific_name": "Jasminum officinale",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P093",
+      "name_ar": "فل",
+      "scientific_name": "Jasminum sambac",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P094",
+      "name_ar": "كاردينيا",
+      "scientific_name": "Gardenia jasminoides",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P095",
+      "name_ar": "جهنمية",
+      "scientific_name": "Bougainvillea spp.",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P096",
+      "name_ar": "دفلى",
+      "scientific_name": "Nerium oleander",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ],
+      "safety_note": "تحذير: جميع أجزاء الدفلى سامة عند الابتلاع؛ عصارتها قد تهيج الجلد والعينين. لا تحرق مخلفاتها."
+    },
+    {
+      "id": "P097",
+      "name_ar": "جازانيا",
+      "scientific_name": "Gazania rigens",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P098",
+      "name_ar": "بتونيا",
+      "scientific_name": "Petunia × atkinsiana",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P099",
+      "name_ar": "قطيفة",
+      "scientific_name": "Tagetes erecta / Tagetes patula",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ],
+      "identity_note": "الاسم الشعبي قطيفة قد يشير إلى Tagetes erecta أو Tagetes patula؛ حدد النوع/الصنف قبل التوصيات التفصيلية."
+    },
+    {
+      "id": "P100",
+      "name_ar": "زينيا",
+      "scientific_name": "Zinnia elegans",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.11,
+      "sources": [
+        "RHS species cultivation guidance",
+        "Iraqi horticultural context; local review required"
+      ]
+    },
+    {
+      "id": "P101",
+      "name_ar": "قرنفل",
+      "scientific_name": "Dianthus caryophyllus",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P102",
+      "name_ar": "أقحوان",
+      "scientific_name": "Chrysanthemum × morifolium",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P103",
+      "name_ar": "جلاديولس",
+      "scientific_name": "Gladiolus hybrids",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P104",
+      "name_ar": "زنبق",
+      "scientific_name": "Lilium spp.",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P105",
+      "name_ar": "توليب",
+      "scientific_name": "Tulipa gesneriana",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P106",
+      "name_ar": "نرجس",
+      "scientific_name": "Narcissus spp.",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P107",
+      "name_ar": "دوار الشمس الزيني",
+      "scientific_name": "Helianthus annuus",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ],
+      "notes": "صنف زيني من النوع نفسه Helianthus annuus المسجل أيضاً ضمن المحاصيل الحقلية P078؛ اربط البحث والهوية النباتية ولا تحتسبه نوعاً نباتياً مستقلاً.",
+      "canonical_plant_id": "P078",
+      "record_relationship": "same_species_different_use",
+      "relationship_note": "دوار الشمس الزيني وعباد الشمس الحقلي من النوع نفسه؛ يختلف الاستخدام/الصنف."
+    },
+    {
+      "id": "P108",
+      "name_ar": "ريحان زيني",
+      "scientific_name": "Ocimum basilicum",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ],
+      "canonical_plant_id": "P112",
+      "record_relationship": "same_species_different_use",
+      "relationship_note": "ريحان الزينة والريحان العطري من النوع نفسه؛ احتفظ بسياق الاستخدام."
+    },
+    {
+      "id": "P109",
+      "name_ar": "لانتانا",
+      "scientific_name": "Lantana camara",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P110",
+      "name_ar": "هيبسكس",
+      "scientific_name": "Hibiscus rosa-sinensis",
+      "category": "زهور ونباتات زينة",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.12,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-BABIL-LOCAL-REVIEW"
+      ]
+    },
+    {
+      "id": "P111",
+      "name_ar": "نعناع",
+      "scientific_name": "Mentha spicata",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UMD-MINT",
+        "SRC-UOD-MED-HERBS"
+      ]
+    },
+    {
+      "id": "P112",
+      "name_ar": "ريحان",
+      "scientific_name": "Ocimum basilicum",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UMN-BASIL-DM",
+        "SRC-UCONN-BASIL-DM",
+        "SRC-UOD-MED-HERBS"
+      ]
+    },
+    {
+      "id": "P113",
+      "name_ar": "زعتر",
+      "scientific_name": "Thymus vulgaris",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-ILLINOIS-THYME",
+        "SRC-RHS-HERBS"
+      ]
+    },
+    {
+      "id": "P114",
+      "name_ar": "إكليل الجبل",
+      "scientific_name": "Salvia rosmarinus",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-ROSEMARY",
+        "SRC-RHS-HERBS"
+      ]
+    },
+    {
+      "id": "P115",
+      "name_ar": "مريمية",
+      "scientific_name": "Salvia officinalis",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-SAGE",
+        "SRC-RHS-HERBS"
+      ]
+    },
+    {
+      "id": "P116",
+      "name_ar": "بابونج",
+      "scientific_name": "Matricaria chamomilla",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UCANR-CHAMOMILE",
+        "SRC-UOD-MED-HERBS"
+      ]
+    },
+    {
+      "id": "P117",
+      "name_ar": "يانسون",
+      "scientific_name": "Pimpinella anisum",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UOD-MED-HERBS",
+        "SRC-UANBAR-MEDICINAL"
+      ]
+    },
+    {
+      "id": "P118",
+      "name_ar": "كمون",
+      "scientific_name": "Cuminum cyminum",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UANBAR-MEDICINAL"
+      ]
+    },
+    {
+      "id": "P119",
+      "name_ar": "كراوية",
+      "scientific_name": "Carum carvi",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UOD-MED-HERBS",
+        "SRC-UANBAR-MEDICINAL"
+      ]
+    },
+    {
+      "id": "P120",
+      "name_ar": "شمر",
+      "scientific_name": "Foeniculum vulgare",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.28.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-UOD-MED-HERBS",
+        "SRC-UANBAR-MEDICINAL"
+      ]
+    },
+    {
+      "id": "P121",
+      "name_ar": "حبة البركة",
+      "scientific_name": "Nigella sativa",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-PEERJ-NIGELLA-2026",
+        "SRC-JAR-BLACK-CUMIN-2024"
+      ]
+    },
+    {
+      "id": "P122",
+      "name_ar": "حلبة",
+      "scientific_name": "Trigonella foenum-graecum",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-TNAU-FENUGREEK",
+        "SRC-PROSEA-FENUGREEK"
+      ]
+    },
+    {
+      "id": "P123",
+      "name_ar": "كركم",
+      "scientific_name": "Curcuma longa",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-TURMERIC",
+        "SRC-PROSEA-TURMERIC"
+      ]
+    },
+    {
+      "id": "P124",
+      "name_ar": "زنجبيل",
+      "scientific_name": "Zingiber officinale",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-GINGER",
+        "SRC-IFAS-GINGER"
+      ]
+    },
+    {
+      "id": "P125",
+      "name_ar": "خزامى",
+      "scientific_name": "Lavandula angustifolia",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-LAVENDER"
+      ]
+    },
+    {
+      "id": "P126",
+      "name_ar": "مردقوش",
+      "scientific_name": "Origanum majorana",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-MARJORAM"
+      ]
+    },
+    {
+      "id": "P127",
+      "name_ar": "زعفران",
+      "scientific_name": "Crocus sativus",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-SAFFRON",
+        "SRC-UVM-SAFFRON"
+      ]
+    },
+    {
+      "id": "P128",
+      "name_ar": "حَبَق",
+      "scientific_name": "Ocimum basilicum",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE"
+      ],
+      "canonical_plant_id": "P112",
+      "record_relationship": "same_taxon_alias",
+      "relationship_note": "الحبق هنا Ocimum basilicum نفسه P112 ريحان؛ مرادف/استخدام محلي لا نوع مستقل."
+    },
+    {
+      "id": "P129",
+      "name_ar": "حشيشة الليمون",
+      "scientific_name": "Cymbopogon citratus",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-RHS-LEMONGRASS",
+        "SRC-WISCONSIN-LEMONGRASS"
+      ]
+    },
+    {
+      "id": "P130",
+      "name_ar": "ألوفيرا",
+      "scientific_name": "Aloe vera",
+      "category": "طبية وعطرية",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": "1.29.0",
+      "sources": [
+        "SRC-KEW-POWO",
+        "SRC-RHS-PLANTS",
+        "SRC-FAO-WATER",
+        "SRC-HILLAH-CLIMATE",
+        "SRC-IASC-ALOE",
+        "SRC-REVIEW-ALOE",
+        "SRC-NCCIH-ALOE"
+      ],
+      "canonical_plant_id": "P149",
+      "record_relationship": "same_taxon_alias",
+      "relationship_note": "ألوفيرا Aloe vera نفسها P149 صبار الألوة؛ سجل مرادف في فئة طبية وعطرية، لا نوع مستقل."
+    },
+    {
+      "id": "P131",
+      "name_ar": "بوتس",
+      "scientific_name": "Epipremnum aureum",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P132",
+      "name_ar": "سانسيفيريا",
+      "scientific_name": "Dracaena trifasciata",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P133",
+      "name_ar": "زاميا",
+      "scientific_name": "Zamioculcas zamiifolia",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P134",
+      "name_ar": "دراسينا",
+      "scientific_name": "Dracaena spp.",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P135",
+      "name_ar": "فيكس مطاط",
+      "scientific_name": "Ficus elastica",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P136",
+      "name_ar": "فيكس بنجامينا",
+      "scientific_name": "Ficus benjamina",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P137",
+      "name_ar": "مونستيرا",
+      "scientific_name": "Monstera deliciosa",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P138",
+      "name_ar": "سباثيفيلوم",
+      "scientific_name": "Spathiphyllum spp.",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P139",
+      "name_ar": "أنثوريوم",
+      "scientific_name": "Anthurium andraeanum hybrids",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P140",
+      "name_ar": "أجلونيما",
+      "scientific_name": "Aglaonema commutatum hybrids",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.3,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX"
+      ]
+    },
+    {
+      "id": "P141",
+      "name_ar": "كلاثيا",
+      "scientific_name": "Goeppertia spp. (Calathea group)",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/goeppertia-orbifolia/"
+      ]
+    },
+    {
+      "id": "P142",
+      "name_ar": "كروتون",
+      "scientific_name": "Codiaeum variegatum",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://www.rhs.org.uk/plants/codiaeum/growing-guide"
+      ]
+    },
+    {
+      "id": "P143",
+      "name_ar": "شفليرا",
+      "scientific_name": "Heptapleurum arboricola (syn. Schefflera arboricola)",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://www.rhs.org.uk/plants/187874/heptapleurum-arboricola/details"
+      ]
+    },
+    {
+      "id": "P144",
+      "name_ar": "أسبيدسترا",
+      "scientific_name": "Aspidistra elatior",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://www.rhs.org.uk/plants/aspidistra/how-to-grow-aspidistras"
+      ]
+    },
+    {
+      "id": "P145",
+      "name_ar": "سرخس بوسطن",
+      "scientific_name": "Nephrolepis exaltata (Boston fern group)",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/nephrolepis-exaltata/common-name/boston-fern/"
+      ]
+    },
+    {
+      "id": "P146",
+      "name_ar": "كالاتيا",
+      "scientific_name": "Goeppertia spp. (Calathea group; trade-name duplicate)",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/goeppertia-orbifolia/"
+      ],
+      "canonical_plant_id": "P141",
+      "record_relationship": "trade_group_duplicate",
+      "relationship_note": "كالاتيا اسم تجاري/مجموعة متداخلة مع Goeppertia؛ لا تعدّها نوعاً مستقلاً دون تحديد صنف.",
+      "identity_note": "اسم تجاري/عربي بديل ضمن مجموعة Goeppertia (Calathea)؛ مرتبط بـ P141 ولا يعد نوعاً مستقلاً دون تحديد الصنف."
+    },
+    {
+      "id": "P147",
+      "name_ar": "ديفنباخيا",
+      "scientific_name": "Dieffenbachia seguine",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/dieffenbachia-seguine/"
+      ]
+    },
+    {
+      "id": "P148",
+      "name_ar": "كوليوس",
+      "scientific_name": "Coleus scutellarioides",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/coleus-scutellarioides/"
+      ],
+      "scientific_synonyms": [
+        "Plectranthus scutellarioides"
+      ]
+    },
+    {
+      "id": "P149",
+      "name_ar": "صبار الألوة",
+      "scientific_name": "Aloe vera",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://plants.ces.ncsu.edu/plants/aloe-vera/common-name/aloe-vera/"
+      ],
+      "canonical_plant_id": "P130",
+      "record_relationship": "same_species_different_use",
+      "relationship_note": "صبار الألوة هو Aloe vera نفسه؛ يختلف سياق العناية الداخلية عن الملف الطبي.",
+      "identity_note": "Aloe vera نفسها المسجلة في P130؛ سجل اسم بديل/استخدام ولا تحتسب نوعاً نباتياً إضافياً."
+    },
+    {
+      "id": "P150",
+      "name_ar": "صبار الزينة",
+      "scientific_name": "Cactaceae spp. (mixed ornamental cacti)",
+      "category": "داخلية وظل",
+      "region_scope": [
+        "العراق"
+      ],
+      "profile_status": "profiled",
+      "verification_status": "draft_source_guided_needs_local_review",
+      "profile_version": 1.15,
+      "sources": [
+        "SRC-RHS-PLANTS",
+        "SRC-NCSU-PLANT-TOOLBOX",
+        "https://www.rhs.org.uk/plants",
+        "https://plants.ces.ncsu.edu/",
+        "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/cacti-and-succulents"
+      ],
+      "identity_note": "Cactaceae spp. عائلة مختلطة؛ لا تعتمد توصية نوعية قبل تحديد الجنس والنوع."
+    }
+  ],
+  "profiled_vegetable_count": 40,
+  "catalogue_status_note": "تمت إضافة ملفات المحاصيل الحقلية P071–P080. P075 «ذرة بيضاء» ملف مؤقت؛ الهوية النباتية تحتاج تأكيداً قبل التوصيات.",
+  "profiled_fruit_tree_count": 30,
+  "profiled_field_crop_count": 20,
+  "catalog_only_field_crop_count": 0,
+  "profiled_ornamental_count": 20,
+  "catalog_only_ornamental_count": 0,
+  "profiled_medicinal_aromatic_count": 20,
+  "catalog_only_medicinal_aromatic_count": 0,
+  "profiled_total": 150,
+  "profiled_indoor_shade_count": 20,
+  "catalog_only_indoor_shade_count": 0,
+  "last_updated": "2026-11-19",
+  "taxonomic_link_policy": "Records with canonical_plant_id represent aliases, the same species in a different use context, or overlapping trade groups; keep display contexts but avoid double-counting unique taxa and inventory. P022 وP040 يحملان الاسم العلمي نفسه Phaseolus vulgaris؛ يحتفظ النظام بسجلين لاختلاف حصاد القرون الخضراء عن البذور الجافة، لكنهما نوع نباتي واحد عند عدّ الأنواع.",
+  "catalog_only_vegetable_count": 0,
+  "updated_on": "2026-11-19"
+}

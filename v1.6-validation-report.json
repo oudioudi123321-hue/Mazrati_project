@@ -1,0 +1,21 @@
+{
+  "version": "1.6.0",
+  "checks": {
+    "diagnosis_page_present": true,
+    "image_upload_handler": true,
+    "local_save_handler": true,
+    "history_delete_handler": true,
+    "local_storage_key": true,
+    "no_old_fake_analyze_button": true,
+    "database_loader_present": true,
+    "weather_serverless_preserved": true
+  },
+  "all_passed": true,
+  "javascript_syntax": "passed (node --check)",
+  "zip_integrity": "pending archive creation",
+  "limitations": [
+    "Browser runtime/mobile camera behavior not exercised in an actual browser in this environment.",
+    "LocalStorage quota varies by browser/device; large histories may require deleting older cases.",
+    "No AI inference is active."
+  ]
+}

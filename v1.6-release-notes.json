@@ -1,0 +1,21 @@
+{
+  "product": "MAZRATI",
+  "version": "1.6.0",
+  "base_version": "1.5.0",
+  "title": "Image diagnosis intake and local case history",
+  "changes": [
+    "Rebuilt the plant diagnosis page as a structured case-intake workflow.",
+    "Added JPG/PNG/WEBP image selection and camera capture on supported mobile browsers.",
+    "Added client-side image downscaling to a maximum 1400px edge and JPEG compression before local save.",
+    "Added plant selection, affected part, symptom, severity, onset, and notes fields.",
+    "Added local diagnosis case history with timestamps and delete action.",
+    "Images and case details remain in browser localStorage; no external AI request is made."
+  ],
+  "not_included": [
+    "No AI diagnosis yet.",
+    "No Gemini API integration or API key required in this release.",
+    "No disease certainty score or treatment/pesticide recommendations.",
+    "No cloud sync or cross-device backup."
+  ],
+  "safety": "This release records observations only. It does not diagnose plant disease or prescribe fertilizers/pesticides."
+}

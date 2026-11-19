@@ -1,0 +1,16 @@
+{
+  "version": "1.8.1",
+  "date": "2026-11-19",
+  "title": "Google Gemini native API integration",
+  "changes": [
+    "Replaced the generic OpenAI-compatible diagnosis proxy with Google's native Gemini generateContent REST API.",
+    "Configured gemini-3.8-flash as the default image-capable diagnosis model, with optional GEMINI_MODEL override.",
+    "Moved authentication to the server-only GEMINI_API_KEY environment secret using x-goog-api-key.",
+    "Added inlineData image transmission, structured JSON response schema, timeout handling, and provider-aware quota/auth errors.",
+    "Updated Vercel deployment, cost, privacy, and troubleshooting documentation."
+  ],
+  "not_enabled_until_configured": [
+    "Live image diagnosis remains disabled until GEMINI_API_KEY is configured in server environment variables and the project is redeployed.",
+    "No live Gemini request or real-plant image inference has been run in this build environment."
+  ]
+}

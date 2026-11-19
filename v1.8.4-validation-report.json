@@ -1,0 +1,17 @@
+{
+  "version": "1.8.4",
+  "date": "2026-11-19",
+  "checks": {
+    "plant_detail_disease_link_present": true,
+    "related_records_filtered_by_exact_plant_id": true,
+    "direct_navigation_and_search_filter_present": true,
+    "backup_app_version_updated": true,
+    "disease_guide_dataset_preserved": true,
+    "plant_database_files_preserved": true
+  },
+  "limitations": [
+    "JavaScript syntax and browser/mobile end-to-end tests are still required before release.",
+    "Agronomic source content remains preliminary and requires local agronomist review.",
+    "No Iraqi pesticide registration or product-label verification has been performed."
+  ]
+}

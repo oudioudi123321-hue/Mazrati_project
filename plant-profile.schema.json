@@ -1,0 +1,393 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mazrati.local/schemas/plant-profile.schema.json",
+  "title": "Mazrati Expert Plant Profile",
+  "type": "object",
+  "required": [
+    "plant_id",
+    "name_ar",
+    "category",
+    "region_scope",
+    "growth_stages",
+    "care",
+    "problems",
+    "sources",
+    "review"
+  ],
+  "properties": {
+    "plant_id": {
+      "type": "string",
+      "pattern": "^P[0-9]{3}$"
+    },
+    "name_ar": {
+      "type": "string"
+    },
+    "scientific_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "category": {
+      "type": "string"
+    },
+    "region_scope": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "climate": {
+      "type": "object",
+      "properties": {
+        "heat_tolerance": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "cold_tolerance": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "soil": {
+      "type": "object",
+      "properties": {
+        "preferred_texture": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ph_range": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "drainage": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "salinity_notes": {
+          "type": "string"
+        }
+      }
+    },
+    "planting": {
+      "type": "object",
+      "properties": {
+        "methods": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "seasons_iraq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "region_or_governorate": {
+                "type": "string"
+              },
+              "sowing_window": {
+                "type": "string"
+              },
+              "transplant_window": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "notes": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "spacing": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "growth_stages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "stage_name",
+          "description"
+        ],
+        "properties": {
+          "stage_name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "duration_days": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "critical_needs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "care": {
+      "type": "object",
+      "properties": {
+        "irrigation": {
+          "type": "object",
+          "properties": {
+            "method": {
+              "type": "string"
+            },
+            "frequency_guidance": {
+              "type": "string"
+            },
+            "quantity_guidance": {
+              "type": "string"
+            },
+            "adjustment_factors": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "fertilization": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "growth_stage": {
+                "type": "string"
+              },
+              "fertilizer_type": {
+                "type": "string"
+              },
+              "rate": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "unit": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "application_method": {
+                "type": "string"
+              },
+              "evidence_level": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "problems": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "type",
+          "symptoms",
+          "management"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "مرض فطري",
+              "مرض بكتيري",
+              "مرض فيروسي",
+              "آفة حشرية",
+              "أكاروس",
+              "نيماتودا",
+              "نقص عنصر",
+              "سمية",
+              "إجهاد بيئي",
+              "غير محدد",
+              "مرض شبيه بالفطري",
+              "حشائش",
+              "آفة حيوانية"
+            ]
+          },
+          "symptoms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "differential_diagnosis": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "prevention": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "management": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "chemical_control": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "active_ingredient": {
+                  "type": "string"
+                },
+                "registered_product": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "dose_label": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "pre_harvest_interval_days": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "registration_verified": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "harvest": {
+      "type": "object",
+      "properties": {
+        "maturity_signs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "harvest_window": {
+          "type": "string"
+        },
+        "handling": {
+          "type": "string"
+        },
+        "storage": {
+          "type": "string"
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "publisher",
+          "title",
+          "url_or_identifier",
+          "accessed_on"
+        ],
+        "properties": {
+          "publisher": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "url_or_identifier": {
+            "type": "string"
+          },
+          "published_year": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "accessed_on": {
+            "type": "string",
+            "format": "date"
+          },
+          "supports": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "status",
+        "reviewed_by_role"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "draft",
+            "source_checked",
+            "agronomist_reviewed",
+            "approved_for_release"
+          ]
+        },
+        "reviewed_by_role": {
+          "type": "string"
+        },
+        "review_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

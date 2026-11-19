@@ -1,0 +1,19 @@
+{
+  "product": "MAZRATI",
+  "version": "1.7.0",
+  "base_version": "1.6.0",
+  "title": "Local data backup and restore",
+  "changes": [
+    "Added JSON export of user-owned mazrati-prefixed LocalStorage data.",
+    "Added guarded import with backup format/version and key/value validation.",
+    "Restore requires explicit confirmation and refreshes in-memory state after success.",
+    "Added rollback attempt to restore the previous local snapshot if writing fails.",
+    "Startup now tolerates malformed local arrays instead of crashing the entire app."
+  ],
+  "not_included": [
+    "No automatic cloud sync or cross-device synchronization.",
+    "No AI image inference or diagnosis provider connection.",
+    "No weather API key configured by this release."
+  ],
+  "safety": "Backup files contain personal plant records and image data. Store them privately. Import replaces existing local app data."
+}

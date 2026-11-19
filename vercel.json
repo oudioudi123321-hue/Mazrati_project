@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/weather.js": {
+      "maxDuration": 10
+    },
+    "api/diagnose.js": {
+      "maxDuration": 30
+    }
+  }
+}

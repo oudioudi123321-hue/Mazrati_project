@@ -1,0 +1,30 @@
+{
+  "release": "MAZRATI integrated v1.5.0",
+  "based_on": "v1.4.0",
+  "features": [
+    "plant-weather alert panel on dashboard",
+    "uses cached Hillah weather response only when fresh (30-minute cache)",
+    "links registered plants to recorded heat-sensitivity wording in their own profiles",
+    "general wind and rainfall monitoring prompts",
+    "clear fallback when weather is missing or stale"
+  ],
+  "safety": [
+    "alerts are advisory indicators, not official Iraqi warnings",
+    "35 C heat-sensitivity trigger is a conservative heuristic, not a crop-specific physiological threshold",
+    "no automatic irrigation, fertilization, spraying, or pesticide instruction",
+    "weather API remains inactive until server environment key is configured",
+    "local plant records and weather cache remain in browser localStorage"
+  ],
+  "weather_api_connected": false,
+  "ai_diagnosis_connected": false,
+  "validation": {
+    "javascript_syntax": "PASS",
+    "zip_integrity": "PASS",
+    "database_files_preserved": true
+  },
+  "limitations": [
+    "No push/browser notifications; alerts appear on dashboard after a weather refresh.",
+    "Weather service needs deployment with serverless support and WEATHERAPI_KEY.",
+    "No agronomist field validation in Babil."
+  ]
+}

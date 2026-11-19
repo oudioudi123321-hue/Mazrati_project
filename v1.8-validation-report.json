@@ -1,0 +1,25 @@
+{
+  "version": "1.8.0",
+  "date": "2026-11-19",
+  "checks": {
+    "inline_javascript_syntax": "PASS",
+    "diagnose_endpoint_javascript_syntax": "PASS",
+    "weather_endpoint_javascript_syntax": "PASS",
+    "vercel_json_parse": "PASS",
+    "diagnose_method_guard": "PASS",
+    "missing_ai_environment_returns_503": "PASS",
+    "invalid_image_rejected": "PASS",
+    "mocked_multimodal_provider_response": "PASS",
+    "confidence_values_clamped_0_to_100": "PASS",
+    "plant_database_json_files": "PASS",
+    "plant_catalogue_count_150": "PASS",
+    "profile_data_files_present": "PASS"
+  },
+  "limitations": [
+    "Live provider integration has not been tested because the user has not selected/configured a provider or supplied server environment variables.",
+    "No real image inference or field validation was performed.",
+    "Browser/mobile end-to-end test remains unavailable in this runtime; the previous release noted local browser restrictions.",
+    "Provider must support OpenAI-compatible Chat Completions, image_url data URLs, and JSON mode.",
+    "Model confidence is an uncalibrated estimate and must not be treated as a validated probability."
+  ]
+}

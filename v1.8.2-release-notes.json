@@ -1,0 +1,17 @@
+{
+  "version": "1.8.2",
+  "date": "2026-11-19",
+  "title": "Agronomy knowledge guides for fertilizers and pesticides",
+  "changes": [
+    "Replaced placeholder fertilizer and pesticide pages with structured, searchable agronomy learning guides.",
+    "Added nutrient roles, common deficiency indicators, fertilizer handling principles, and soil/water analysis safeguards.",
+    "Added integrated pest management workflow, pesticide category guidance, label checks, PHI/REI, resistance management, and safety practices.",
+    "Kept chemical product names, active ingredients, and application rates out of the guide unless Iraqi registration and exact official labels can be verified.",
+    "Updated backup metadata and visible app version to 1.8.2."
+  ],
+  "safety_limits": [
+    "No universal fertilizer rates are supplied; field rates require crop, stage, soil/water tests, irrigation system, and product analysis.",
+    "No pesticide product, active ingredient, or spray rate is recommended; users must verify current Iraqi registration and the exact label.",
+    "Content is educational and requires local agronomist review before being treated as an official field recommendation."
+  ]
+}

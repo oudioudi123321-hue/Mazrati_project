@@ -1,0 +1,738 @@
+{
+  "dataset": "MAZRATI",
+  "version": "1.32.0",
+  "audit_date": "2026-11-19",
+  "audit_scope": "Batch 015 P141–P150 source-based desk review; structural/schema and catalogue-profile consistency checks. No field validation, local agronomist sign-off, or live URL verification.",
+  "checks": {
+    "json_files_parse": true,
+    "plant_count": 150,
+    "unique_plant_ids": 150,
+    "profile_document_count": 150,
+    "unique_profile_ids": 150,
+    "catalog_ids_without_profile": [],
+    "profile_ids_missing_from_catalog": [],
+    "duplicate_profile_ids": [],
+    "schema_error_count": 0,
+    "schema_errors": [],
+    "plant_category_counts": {
+      "خضروات": 40,
+      "أشجار مثمرة": 30,
+      "محاصيل حقلية": 20,
+      "زهور ونباتات زينة": 20,
+      "طبية وعطرية": 20,
+      "داخلية وظل": 20
+    },
+    "profile_category_counts": {
+      "خضروات": 40,
+      "أشجار مثمرة": 30,
+      "محاصيل حقلية": 20,
+      "زهور ونباتات زينة": 20,
+      "طبية وعطرية": 20,
+      "داخلية وظل": 20
+    },
+    "profile_review_status_counts": {
+      "source_checked": 80,
+      "draft": 70
+    },
+    "profile_source_urls_not_in_registry": [],
+    "source_registry_count": 192,
+    "unique_profile_source_url_count": 177,
+    "fertilization_entry_count": 457,
+    "fertilization_entries_with_numeric_rate_or_unit": 0,
+    "nonempty_chemical_control_entries": 0,
+    "profiles_without_sources": [],
+    "catalog_profile_identity_mismatch_count": 0,
+    "catalog_profile_identity_mismatches": [],
+    "batch_003_catalog_source_sync_errors": [],
+    "batch_003_profiles_reviewed": 10,
+    "batch_003_profile_identity_match": true,
+    "catalog_profile_arabic_label_variants_same_taxon": [
+      {
+        "plant_id": "P039",
+        "catalog_name": "فول أخضر",
+        "profile_name": "فول أخضر (باقلاء)",
+        "scientific_name": "Vicia faba"
+      }
+    ],
+    "batch_004_profiles_reviewed": 10,
+    "batch_004_profile_identity_match": true,
+    "batch_004_catalog_source_sync_errors": [],
+    "known_taxonomic_usage_links": [
+      {
+        "plant_ids": [
+          "P022",
+          "P040"
+        ],
+        "scientific_name": "Phaseolus vulgaris",
+        "relationship": "same botanical species; separate green-pod vs dry-seed harvest/use profiles; not separate taxa"
+      }
+    ],
+    "batch_004_reviewed": 10,
+    "batch_005_profiles_reviewed": 10,
+    "batch_005_profile_identity_match": true,
+    "batch_005_catalog_source_sync_errors": [],
+    "batch_008_profiles_reviewed": 10,
+    "batch_008_identity_comparison": [
+      {
+        "plant_id": "P071",
+        "catalog_name": "حنطة",
+        "profile_name": "حنطة",
+        "catalog_scientific": "Triticum aestivum",
+        "profile_scientific": "Triticum aestivum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P072",
+        "catalog_name": "شعير",
+        "profile_name": "شعير",
+        "catalog_scientific": "Hordeum vulgare",
+        "profile_scientific": "Hordeum vulgare",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P073",
+        "catalog_name": "رز",
+        "profile_name": "رز",
+        "catalog_scientific": "Oryza sativa",
+        "profile_scientific": "Oryza sativa",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P074",
+        "catalog_name": "ذرة صفراء",
+        "profile_name": "ذرة صفراء",
+        "catalog_scientific": "Zea mays",
+        "profile_scientific": "Zea mays",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P075",
+        "catalog_name": "ذرة بيضاء",
+        "profile_name": "ذرة بيضاء",
+        "catalog_scientific": null,
+        "profile_scientific": null,
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "unresolved_by_design"
+      },
+      {
+        "plant_id": "P076",
+        "catalog_name": "قطن",
+        "profile_name": "قطن",
+        "catalog_scientific": "Gossypium hirsutum",
+        "profile_scientific": "Gossypium hirsutum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P077",
+        "catalog_name": "سمسم",
+        "profile_name": "سمسم",
+        "catalog_scientific": "Sesamum indicum",
+        "profile_scientific": "Sesamum indicum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P078",
+        "catalog_name": "عباد الشمس",
+        "profile_name": "عباد الشمس",
+        "catalog_scientific": "Helianthus annuus",
+        "profile_scientific": "Helianthus annuus",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P079",
+        "catalog_name": "فول الصويا",
+        "profile_name": "فول الصويا",
+        "catalog_scientific": "Glycine max",
+        "profile_scientific": "Glycine max",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P080",
+        "catalog_name": "عدس",
+        "profile_name": "عدس",
+        "catalog_scientific": "Lens culinaris",
+        "profile_scientific": "Lens culinaris",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      }
+    ],
+    "batch_008_findings_count": 6,
+    "batch_009_profiles_reviewed": 10,
+    "batch_009_identity_comparison": [
+      {
+        "plant_id": "P081",
+        "catalog_name": "حمص",
+        "profile_name": "حمص",
+        "catalog_scientific": "Cicer arietinum",
+        "profile_scientific": "Cicer arietinum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P082",
+        "catalog_name": "ماش",
+        "profile_name": "ماش",
+        "catalog_scientific": "Vigna radiata",
+        "profile_scientific": "Vigna radiata",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P083",
+        "catalog_name": "ترمس",
+        "profile_name": "ترمس",
+        "catalog_scientific": "Lupinus albus",
+        "profile_scientific": "Lupinus albus",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P084",
+        "catalog_name": "برسيم",
+        "profile_name": "برسيم",
+        "catalog_scientific": "Trifolium alexandrinum",
+        "profile_scientific": "Trifolium alexandrinum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P085",
+        "catalog_name": "جت (البرسيم الحجازي)",
+        "profile_name": "جت (البرسيم الحجازي)",
+        "catalog_scientific": "Medicago sativa",
+        "profile_scientific": "Medicago sativa",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P086",
+        "catalog_name": "شوندر سكري",
+        "profile_name": "شوندر سكري",
+        "catalog_scientific": "Beta vulgaris subsp. vulgaris (sugar beet group)",
+        "profile_scientific": "Beta vulgaris subsp. vulgaris (sugar beet group)",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P087",
+        "catalog_name": "قصب السكر",
+        "profile_name": "قصب السكر",
+        "catalog_scientific": "Saccharum officinarum",
+        "profile_scientific": "Saccharum officinarum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P088",
+        "catalog_name": "دخن",
+        "profile_name": "دخن",
+        "catalog_scientific": "Pennisetum glaucum (syn. Cenchrus americanus)",
+        "profile_scientific": "Pennisetum glaucum (syn. Cenchrus americanus)",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P089",
+        "catalog_name": "قرطم",
+        "profile_name": "قرطم",
+        "catalog_scientific": "Carthamus tinctorius",
+        "profile_scientific": "Carthamus tinctorius",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      },
+      {
+        "plant_id": "P090",
+        "catalog_name": "كتان",
+        "profile_name": "كتان",
+        "catalog_scientific": "Linum usitatissimum",
+        "profile_scientific": "Linum usitatissimum",
+        "name_match": true,
+        "scientific_match": true,
+        "identity_status": "matched"
+      }
+    ],
+    "batch_009_findings_count": 8,
+    "known_identity_or_scope_warnings": [
+      {
+        "plant_id": "P075",
+        "issue": "تم حسم الاسم إلى ذرة شامية بيضاء الحبوب (Zea mays) بناءً على توضيح المستخدم؛ صنف البذور المحدد ما زال مطلوباً لتوصيات دقيقة."
+      }
+    ],
+    "known_taxonomic_links": [
+      {
+        "plant_id": "P075",
+        "canonical_plant_id": "P074",
+        "relationship": "same_species_different_kernel_colour",
+        "note": "P075 ذرة شامية بيضاء الحبوب وP074 ذرة شامية صفراء؛ كلاهما Zea mays، وتختلف صفة لون الحبوب/الصنف لا النوع النباتي."
+      }
+    ],
+    "limitations": [
+      "P075 تم حسمه إلى Zea mays (ذرة شامية بيضاء الحبوب)؛ لا يزال تحديد الصنف مطلوباً لتوصيات دقيقة."
+    ],
+    "batch_audits": [
+      {
+        "audit_id": "BATCH-009-P081-P090",
+        "reviewed_count": 10,
+        "status": "desk_review_completed_pending_local_babil_agronomist_review",
+        "identity_matches": 10,
+        "findings_count": 8
+      }
+    ],
+    "batch_015_profiles_reviewed": 10,
+    "batch_015_identity_matches": 10
+  },
+  "known_taxonomic_links": [
+    {
+      "plant_id": "P069",
+      "canonical_plant_id": "P068",
+      "relationship": "same_taxon_alias",
+      "note": "توت أرضي اسم شائع مرادف للفراولة؛ اربط البحث والمخزون بالسجل الأساسي."
+    },
+    {
+      "plant_id": "P107",
+      "canonical_plant_id": "P078",
+      "relationship": "same_species_different_use",
+      "note": "دوار الشمس الزيني وعباد الشمس الحقلي من النوع نفسه؛ يختلف الاستخدام/الصنف."
+    },
+    {
+      "plant_id": "P108",
+      "canonical_plant_id": "P112",
+      "relationship": "same_species_different_use",
+      "note": "ريحان الزينة والريحان العطري من النوع نفسه؛ احتفظ بسياق الاستخدام."
+    },
+    {
+      "plant_id": "P128",
+      "canonical_plant_id": "P112",
+      "relationship": "same_taxon_alias",
+      "note": "الحبق هنا مثبت على Ocimum basilicum نفسه المسجل باسم الريحان؛ اربط الاسمين."
+    },
+    {
+      "plant_id": "P146",
+      "canonical_plant_id": "P141",
+      "relationship": "trade_group_duplicate",
+      "note": "كالاتيا اسم تجاري/مجموعة متداخلة مع Goeppertia؛ لا تعدّها نوعاً مستقلاً دون تحديد صنف."
+    },
+    {
+      "plant_id": "P149",
+      "canonical_plant_id": "P130",
+      "relationship": "same_taxon_alias",
+      "note": "P149 اسم عربي/تجاري بديل لـ Aloe vera؛ P130 هو السجل الأساسي، لا تحتسب النوع مرتين."
+    },
+    {
+      "plant_id": "P027",
+      "canonical_plant_id": "P026",
+      "relationship": "same_species_different_use",
+      "note": "P027 قرع مثبت على Cucurbita pepo مثل P026 كوسة؛ قد يمثل مجموعة/غرضاً زراعياً مختلفاً ضمن النوع نفسه. يلزم تحديد المجموعة/الصنف محلياً، ولا يحتسب كنوع مستقل مؤكّد."
+    },
+    {
+      "plant_ids": [
+        "P054",
+        "P055"
+      ],
+      "relationship": "Prunus persica species group; peach and nectarine fruit groups, not separate species."
+    },
+    {
+      "plant_ids": [
+        "P056"
+      ],
+      "relationship": "Profile currently conflates Prunus domestica and Prunus salicina; split taxonomic records before cultivar-specific advice."
+    },
+    {
+      "plant_ids": [
+        "P057"
+      ],
+      "relationship": "Profile currently conflates Prunus avium and Prunus cerasus; split sweet and sour cherry advice."
+    },
+    {
+      "plant_ids": [
+        "P068",
+        "P069"
+      ],
+      "relationship": "P069 is an alias of P068; same Fragaria × ananassa crop, must not be counted twice."
+    },
+    {
+      "plant_id": "P128",
+      "canonical_plant_id": "P112",
+      "relationship": "same_taxon_alias",
+      "note": "Ocimum basilicum – حبق/ريحان"
+    },
+    {
+      "plant_ids": [
+        "P150"
+      ],
+      "scientific_name": "Cactaceae spp.",
+      "relationship": "family-level mixed taxon; cannot support species-specific care schedule until genus/species is identified"
+    },
+    {
+      "plant_id": "P005",
+      "canonical_plant_id": "P004",
+      "relationship": "same_species_cultivar_or_market_type",
+      "note": "Capsicum annuum في السجلين؛ فلفل حلو وحار يمثلان مجموعات/أصناف داخل النوع نفسه، وليس نوعين نباتيين."
+    },
+    {
+      "plant_id": "P040",
+      "canonical_plant_id": "P022",
+      "relationship": "same_species_different_harvest_use",
+      "note": "Phaseolus vulgaris؛ فاصوليا خضراء وفاصوليا يابسة سياقا حصاد/استخدام مختلفان لنوع واحد."
+    },
+    {
+      "plant_id": "P027",
+      "canonical_plant_id": "P026",
+      "relationship": "same_species_group_requires_cultivar_resolution",
+      "note": "Cucurbita pepo في السجلين؛ الكوسة والقرع قد يمثلان مجموعات صنفية مختلفة داخل النوع، ويجب تثبيت المجموعة من الصنف."
+    },
+    {
+      "plant_id": "P069",
+      "canonical_plant_id": "P068",
+      "relationship": "same_taxon_alias",
+      "note": "Fragaria × ananassa؛ توت أرضي مرادف شائع للفراولة، سجل بحثي/تجاري لا نوع مستقل."
+    },
+    {
+      "plant_id": "P075",
+      "canonical_plant_id": "P074",
+      "relationship": "same_species_grain_colour_or_identity_unresolved",
+      "note": "الفهرس يضع الذرة البيضاء والذرة الصفراء تحت Zea mays؛ اختلاف لون الحبوب لا ينشئ نوعاً نباتياً. يجب التحقق من أن الاسم المحلي لا يقصد محصولاً آخر مثل السورغم قبل إتاحة توصيات."
+    },
+    {
+      "plant_id": "P107",
+      "canonical_plant_id": "P078",
+      "relationship": "same_species_different_use",
+      "note": "Helianthus annuus؛ دوار الشمس الزيني وعباد الشمس الحقلي استخدامان/أصناف ضمن النوع نفسه."
+    },
+    {
+      "plant_id": "P108",
+      "canonical_plant_id": "P112",
+      "relationship": "same_species_different_use",
+      "note": "Ocimum basilicum؛ ريحان الزينة والريحان العطري استخدامان ضمن النوع نفسه."
+    },
+    {
+      "plant_id": "P128",
+      "canonical_plant_id": "P112",
+      "relationship": "same_taxon_alias",
+      "note": "Ocimum basilicum؛ الحبق/الريحان أسماء عربية متداخلة ويجب ربطها."
+    },
+    {
+      "plant_ids": [
+        "P054",
+        "P055"
+      ],
+      "scientific_name": "Prunus persica",
+      "relationship": "same_species_fruit_group",
+      "note": "الخوخ والنكتارين مجموعات ثمرية ضمن Prunus persica وليسا نوعين مستقلين."
+    },
+    {
+      "plant_ids": [
+        "P056"
+      ],
+      "scientific_name": "Prunus domestica / Prunus salicina",
+      "relationship": "identity_conflation_requires_split",
+      "note": "السجل يخلط البرقوق الأوروبي والياباني؛ يجب فصل الهوية قبل توصيات صنفية أو احتياجات تبريد."
+    },
+    {
+      "plant_ids": [
+        "P057"
+      ],
+      "scientific_name": "Prunus avium / Prunus cerasus",
+      "relationship": "identity_conflation_requires_split",
+      "note": "السجل يخلط الكرز الحلو والحامض؛ يجب فصل النوعين قبل التوصيات."
+    },
+    {
+      "plant_ids": [
+        "P141",
+        "P146"
+      ],
+      "scientific_name": "Goeppertia spp. (Calathea group)",
+      "relationship": "duplicate_broad_trade_group",
+      "note": "سجلان تجاريان لمجموعة عامة متداخلة؛ لا يعدّان نوعين مؤكدين حتى تحديد الأنواع/الأصناف."
+    },
+    {
+      "plant_id": "P149",
+      "canonical_plant_id": "P130",
+      "relationship": "same_taxon_alias",
+      "note": "Aloe vera؛ P149 اسم بديل للألوفيرا المسجلة P130. اعتمد P130 كسجل أساسي."
+    },
+    {
+      "plant_ids": [
+        "P150"
+      ],
+      "scientific_name": "Cactaceae spp.",
+      "relationship": "family_level_mixed_taxon",
+      "note": "عائلة تضم أجناساً وأنواعاً كثيرة؛ لا يمكن إعطاء توصيات نوعية موحدة قبل تحديد النوع."
+    },
+    {
+      "plant_ids": [
+        "P134"
+      ],
+      "scientific_name": "Dracaena spp.",
+      "relationship": "genus_level_taxon_requires_species",
+      "note": "دراسينا على مستوى الجنس؛ يجب تحديد النوع/الصنف قبل توصيات دقيقة."
+    }
+  ],
+  "known_identity_or_scope_warnings": [
+    {
+      "plant_id": "P075",
+      "issue": "اسم ذرة بيضاء ملتبس؛ لا يعتمد الاسم العلمي قبل تحديد هل المقصود ذرة شامية بيضاء الحبوب أم سورغم."
+    },
+    {
+      "plant_id": "P134",
+      "issue": "دراسينا مجموعة أنواع؛ يلزم تحديد النوع/الصنف قبل توصيات دقيقة."
+    },
+    {
+      "plant_id": "P150",
+      "issue": "صبار الزينة يشمل أجناساً وأنواعاً متعددة؛ يلزم تحديد النوع."
+    },
+    {
+      "plant_id": "P141/P146",
+      "issue": "مجموعة الكلاثيا/Goeppertia التجارية واسعة ومتداخلة؛ تحديد الصنف مطلوب."
+    },
+    {
+      "plant_id": "P123/P124/P127",
+      "issue": "الكركم والزنجبيل والزعفران تحتاج تجربة محلية صغيرة في بابل قبل توصية التوسع التجاري."
+    },
+    {
+      "plant_id": "P125",
+      "issue": "الخزامى مثبت مؤقتاً على Lavandula angustifolia؛ يلزم التحقق من النوع والصنف المحلي."
+    },
+    {
+      "plant_id": "P026/P027",
+      "issue": "الكوسة والقرع كلاهما مثبتان على Cucurbita pepo؛ اسم قرع عام وملتبس، وقد يكون مجموعة صنفية/غرض حصاد لا نوعاً مستقلاً. يلزم تثبيت الصنف أو المجموعة المحلية قبل توصية دقيقة."
+    },
+    {
+      "plant_ids": [
+        "P061"
+      ],
+      "issue": "Morus alba profile is presented with broader Morus spp. scope; species/cultivar selection required."
+    }
+  ],
+  "limitations": [
+    "فحص Schema لا يثبت صحة التوصية الزراعية أو ملاءمتها للحلة.",
+    "مزامنة سجل المصادر لا تعني فتح كل رابط والتحقق من أنه يعمل أو أنه يدعم كل عبارة.",
+    "مراجعة مهندس زراعي/بستني محلي لازمة قبل تحويل المسودات إلى توصيات رسمية.",
+    "جرعات الأسمدة الرقمية غير متاحة دون تحليل التربة والماء/الأنسجة وبيانات المنتج؛ لا توجد توصيات مبيدات كيميائية مضافة.",
+    "P001–P010 تمت مراجعتها مكتبيًا بمصادر منشورة؛ مواعيد بعض المحاصيل لا تزال بحاجة تحقق ميداني في بابل، وقيم Kc مرجعية غير معدلة محلياً وليست برنامج ري نهائياً.",
+    "تدقيق الدفعة الثانية كشف أربعة روابط هوية خاطئة بين الفهرس والملفات P016/P018/P019/P020؛ صُححت في v1.18.0. يلزم إعادة التحقق من بقية الدفعات على أساس مقارنة الاسم والاسم العلمي لا مجرد وجود المعرّف.",
+    "دفعة P021–P030: تم تصحيح نصوص الإكثار العامة وأخطاء تصنيف الآفات/الفيروسات، لكن التشخيص الحقلي لكل مرض يتطلب فحصاً.",
+    "معاملات FAO-56 المستخدمة قيم معيارية لمناخ شبه رطب ومحصول غير مجهد؛ يجب تعديلها لظروف بابل ووتيرة الري.",
+    "البامية والملوخية: لم تُضف قيم Kc نوعية لعدم وجود مطابقة مباشرة في جدول FAO-56 المستخدم.",
+    "P027 قرع يحتاج حسم المجموعة/الصنف لوجود تداخل نوعي مع P026 الكوسة.",
+    "بقي تعارض علمي واحد مقصود/غير محسوم في P075 «ذرة بيضاء»: الاسم العلمي غير محسوم في الفهرس، بينما الملف التفصيلي يضع احتمالين؛ لا يعتمد قبل تحديد المحصول محلياً. اختلاف P039 وP055 في الاسم العربي وصفي/توضيحي مع تطابق الاسم العلمي.",
+    "P056 and P057 contain multi-species taxonomic scope requiring future split.",
+    "No measured chilling-hour series for Al Hillah was provided.",
+    "P069 is a duplicate common-name record for strawberry P068 and must resolve to P068 in operational application logic."
+  ],
+  "batch_audits": [
+    {
+      "audit_id": "BATCH-001-P001-P010",
+      "reviewed_count": 10,
+      "status": "source_reviewed_provisional_local_validation_pending",
+      "kc_reference": "FAO-56 Table 12 baseline, climate adjustment pending",
+      "catalog_sources_synced": true,
+      "tomato_wilt_type_corrected": true
+    },
+    {
+      "audit_id": "BATCH-002-P011-P020",
+      "reviewed_count": 10,
+      "status": "source_reviewed_provisional_local_validation_pending",
+      "identity_mismatches_corrected": 4,
+      "kc_reference": "FAO-56 Table 12 where crop-specific values available; local climate adjustment pending",
+      "catalog_profile_identity_mismatches_after_repair": 0
+    },
+    {
+      "audit_id": "BATCH-003-P021-P030",
+      "reviewed_count": 10,
+      "status": "source_reviewed_provisional_local_validation_pending",
+      "identity_mismatches_corrected": 0,
+      "generic_method_texts_corrected": 10,
+      "pest_disease_classification_corrections": true,
+      "kc_reference": "FAO-56 Table 12 direct crop/group matches only; no Kc for okra or Corchorus; local adjustment pending"
+    },
+    "batch-audit-006.json",
+    "batch-audit-007.json",
+    "batch-audit-014.json"
+  ],
+  "notes": "تدقيق الدفعة التاسعة P081–P090 في v1.25.0: تمت مراجعة هوية السجلات وتصحيح تصنيف الحامول والنيماتودا والطيور ومشكلات الجذور. أضيفت مراجع عراقية ذات نطاق محدود. P075 حُسم إلى الذرة الشامية البيضاء Zea mays بناءً على توضيح المستخدم. لا Kc محلي رقمي أو جرعات سماد/مبيد غير مثبتة. Latest batch 014: indoor plant care rewritten by species/genus, toxicity flags included, P134 retained as genus-level only.",
+  "last_updated": "2026-11-19",
+  "batch_010": {
+    "reviewed_profiles": 10,
+    "identity_matches": 10,
+    "identity_mismatches": 0,
+    "key_findings": 6,
+    "local_agronomist_review": "pending"
+  },
+  "latest_batch_audit": "batch-audit-014.json",
+  "latest_batch_reviewed_count": 10,
+  "latest_batch_identity_matches": 10,
+  "source_registry_count": 182,
+  "batch_015": {
+    "profiles_reviewed": 10,
+    "identity_matches": 10,
+    "findings": [
+      "P141/P146 duplicate broad Goeppertia (Calathea group) entries retained as linked labels, not distinct confirmed taxa.",
+      "P149 Aloe vera duplicates P130; link as alias and count one botanical taxon.",
+      "P150 is family-level mixed Cactaceae; species-level care withheld.",
+      "P147 Dieffenbachia has high-severity calcium oxalate toxicity warning.",
+      "P142 croton sap/whole-plant ingestion warning; P145 Boston fern requires consistently moist medium and higher humidity than succulents.",
+      "P143 Heptapleurum arboricola linked to synonym Schefflera arboricola.",
+      "P148 Coleus scientific synonym updated/linked; mild contact irritation warning."
+    ],
+    "sources_added": 10,
+    "field_validation": false,
+    "local_babil_agronomist_review_required": true
+  },
+  "taxonomic_identity_audit": {
+    "catalogue_records": 150,
+    "exact_scientific_name_duplicate_groups": [
+      {
+        "scientific_name": "Capsicum annuum",
+        "records": [
+          {
+            "plant_id": "P004",
+            "name_ar": "فلفل حلو"
+          },
+          {
+            "plant_id": "P005",
+            "name_ar": "فلفل حار"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Phaseolus vulgaris",
+        "records": [
+          {
+            "plant_id": "P022",
+            "name_ar": "فاصوليا خضراء"
+          },
+          {
+            "plant_id": "P040",
+            "name_ar": "فاصوليا يابسة"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Cucurbita pepo",
+        "records": [
+          {
+            "plant_id": "P026",
+            "name_ar": "كوسة"
+          },
+          {
+            "plant_id": "P027",
+            "name_ar": "قرع"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Fragaria × ananassa",
+        "records": [
+          {
+            "plant_id": "P068",
+            "name_ar": "فراولة"
+          },
+          {
+            "plant_id": "P069",
+            "name_ar": "توت أرضي"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Zea mays",
+        "records": [
+          {
+            "plant_id": "P074",
+            "name_ar": "ذرة صفراء"
+          },
+          {
+            "plant_id": "P075",
+            "name_ar": "ذرة بيضاء"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Helianthus annuus",
+        "records": [
+          {
+            "plant_id": "P078",
+            "name_ar": "عباد الشمس"
+          },
+          {
+            "plant_id": "P107",
+            "name_ar": "دوار الشمس الزيني"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Ocimum basilicum",
+        "records": [
+          {
+            "plant_id": "P108",
+            "name_ar": "ريحان زيني"
+          },
+          {
+            "plant_id": "P112",
+            "name_ar": "ريحان"
+          },
+          {
+            "plant_id": "P128",
+            "name_ar": "حَبَق"
+          }
+        ]
+      },
+      {
+        "scientific_name": "Aloe vera",
+        "records": [
+          {
+            "plant_id": "P130",
+            "name_ar": "ألوفيرا"
+          },
+          {
+            "plant_id": "P149",
+            "name_ar": "صبار الألوة"
+          }
+        ]
+      }
+    ],
+    "exact_duplicate_group_count": 8,
+    "identity_links_count": 28,
+    "interpretation": "تكرار الاسم العلمي قد يمثل مرادفاً أو استخداماً/صنفاً مختلفاً أو خطأ هوية؛ لا يحذف أي سجل تلقائياً. الروابط تحدد السجل الأساسي أو الحاجة إلى حسم الهوية."
+  },
+  "full_catalogue_audit": "full-catalogue-audit-150.json",
+  "profile_review_status_counts": {
+    "source_checked": 90,
+    "draft": 60
+  },
+  "full_audit_summary": {
+    "profiles": 150,
+    "draft": 60,
+    "source_checked": 90,
+    "missing_propagation": 150,
+    "missing_pruning": 110,
+    "duplicate_scientific_name_groups": 8
+  }
+}

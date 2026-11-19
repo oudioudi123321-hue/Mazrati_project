@@ -1,0 +1,21 @@
+{
+  "release": "MAZRATI integrated v1.1.0",
+  "database_version": "1.33.0",
+  "catalogue_count": 150,
+  "detailed_profiles": 150,
+  "unique_catalogue_ids": 150,
+  "unique_profile_ids": 150,
+  "missing_profiles": [],
+  "orphan_profiles": [],
+  "review_status_counts": {
+    "source_checked": 90,
+    "draft": 60
+  },
+  "care_engine": "built from plant profile irrigation, fertilization, light, pruning and growth-stage data",
+  "fertilizer_rates_generated": false,
+  "weather_api_connected": false,
+  "ai_diagnosis_connected": false,
+  "storage": "localStorage on same browser/device",
+  "javascript_syntax": "PASS",
+  "zip_integrity": "PASS"
+}

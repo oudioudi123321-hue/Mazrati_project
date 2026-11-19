@@ -1,0 +1,23 @@
+{
+  "version": "1.8.2",
+  "date": "2026-11-19",
+  "checks": {
+    "inline_javascript_syntax": "PASS",
+    "fertilizer_knowledge_entries_7": "PASS",
+    "pesticide_knowledge_entries_7": "PASS",
+    "knowledge_page_renderer_present": "PASS",
+    "search_filter_handler_present": "PASS",
+    "placeholder_fertilizer_pesticide_pages_removed": "PASS",
+    "backup_metadata_version_1_8_2": "PASS",
+    "plant_database_files_preserved": "PASS",
+    "knowledge_renderer_unit_test": "PASS",
+    "fertilizer_and_pesticide_search_filter_tests": "PASS",
+    "plant_catalogue_count_150": "PASS"
+  },
+  "limitations": [
+    "No browser or mobile end-to-end interaction test was performed in this runtime.",
+    "No Iraqi pesticide registration database or product label was validated; therefore no active ingredients, brand names, or rates are displayed.",
+    "Agronomic knowledge guide requires review by a qualified local agronomist before official field use.",
+    "Gemini image diagnosis and live weather remain inactive until server environment keys are configured and deployment is completed."
+  ]
+}

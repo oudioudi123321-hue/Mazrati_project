@@ -1,0 +1,19 @@
+{
+  "release": "MAZRATI integrated v1.4.0",
+  "based_on": "v1.3.0",
+  "features": [
+    "local care task planner",
+    "task completion/reopen/delete",
+    "dashboard pending tasks",
+    "stage-specific fertilization matching with no cross-stage fallback"
+  ],
+  "safety": [
+    "no invented irrigation schedule",
+    "no generated fertilizer rates",
+    "tasks are user-scheduled after field inspection",
+    "localStorage on same browser/device"
+  ],
+  "weather_api_connected": false,
+  "ai_diagnosis_connected": false,
+  "validation_pending": "automated syntax and archive checks"
+}

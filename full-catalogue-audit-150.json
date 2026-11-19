@@ -1,0 +1,517 @@
+{
+  "dataset": "مزرعتي | MAZRATI",
+  "version": "1.32.0",
+  "audit_date": "2026-11-19",
+  "audit_type": "single_pass_full_catalogue_quality_and_release_readiness_audit",
+  "scope": {
+    "catalogue_records": 150,
+    "detailed_profiles": 150,
+    "categories": {
+      "خضروات": 40,
+      "أشجار مثمرة": 30,
+      "محاصيل حقلية": 20,
+      "زهور ونباتات زينة": 20,
+      "طبية وعطرية": 20,
+      "داخلية وظل": 20
+    },
+    "all_profiles_included": true
+  },
+  "automated_integrity": {
+    "unique_catalogue_ids": true,
+    "unique_profile_ids": true,
+    "index_profile_identity_mismatches": [],
+    "profiles_without_sources": [],
+    "profile_count_by_review_status": {
+      "source_checked": 90,
+      "draft": 60
+    },
+    "profile_scientific_name_duplicate_groups": [
+      {
+        "scientific_name": "Capsicum annuum",
+        "plant_ids": [
+          "P004",
+          "P005"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Phaseolus vulgaris",
+        "plant_ids": [
+          "P022",
+          "P040"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Cucurbita pepo",
+        "plant_ids": [
+          "P026",
+          "P027"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Fragaria × ananassa",
+        "plant_ids": [
+          "P068",
+          "P069"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Zea mays",
+        "plant_ids": [
+          "P074",
+          "P075"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Helianthus annuus",
+        "plant_ids": [
+          "P078",
+          "P107"
+        ],
+        "count": 2
+      },
+      {
+        "scientific_name": "Ocimum basilicum",
+        "plant_ids": [
+          "P108",
+          "P112",
+          "P128"
+        ],
+        "count": 3
+      },
+      {
+        "scientific_name": "Aloe vera",
+        "plant_ids": [
+          "P130",
+          "P149"
+        ],
+        "count": 2
+      }
+    ],
+    "fertilization_entries": 457,
+    "fertilization_entries_with_numeric_rate_or_unit": 0,
+    "chemical_control_entries": 0,
+    "chemical_control_details": [],
+    "profiles_missing_propagation_section": [
+      "P041",
+      "P042",
+      "P043",
+      "P044",
+      "P045",
+      "P046",
+      "P047",
+      "P048",
+      "P049",
+      "P050",
+      "P051",
+      "P052",
+      "P053",
+      "P054",
+      "P055",
+      "P056",
+      "P057",
+      "P058",
+      "P059",
+      "P060",
+      "P061",
+      "P062",
+      "P063",
+      "P064",
+      "P065",
+      "P066",
+      "P067",
+      "P068",
+      "P069",
+      "P070",
+      "P091",
+      "P092",
+      "P093",
+      "P094",
+      "P095",
+      "P096",
+      "P097",
+      "P098",
+      "P099",
+      "P100",
+      "P101",
+      "P102",
+      "P103",
+      "P104",
+      "P105",
+      "P106",
+      "P107",
+      "P108",
+      "P109",
+      "P110",
+      "P071",
+      "P072",
+      "P073",
+      "P074",
+      "P075",
+      "P076",
+      "P077",
+      "P078",
+      "P079",
+      "P080",
+      "P081",
+      "P082",
+      "P083",
+      "P084",
+      "P085",
+      "P086",
+      "P087",
+      "P088",
+      "P089",
+      "P090",
+      "P111",
+      "P112",
+      "P113",
+      "P114",
+      "P115",
+      "P116",
+      "P117",
+      "P118",
+      "P119",
+      "P120",
+      "P121",
+      "P122",
+      "P123",
+      "P124",
+      "P125",
+      "P126",
+      "P127",
+      "P128",
+      "P129",
+      "P130",
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005",
+      "P006",
+      "P007",
+      "P008",
+      "P009",
+      "P010",
+      "P011",
+      "P012",
+      "P013",
+      "P014",
+      "P015",
+      "P016",
+      "P017",
+      "P018",
+      "P019",
+      "P020",
+      "P021",
+      "P022",
+      "P023",
+      "P024",
+      "P025",
+      "P026",
+      "P027",
+      "P028",
+      "P029",
+      "P030",
+      "P031",
+      "P032",
+      "P033",
+      "P034",
+      "P035",
+      "P036",
+      "P037",
+      "P038",
+      "P039",
+      "P040",
+      "P131",
+      "P132",
+      "P133",
+      "P134",
+      "P135",
+      "P136",
+      "P137",
+      "P138",
+      "P139",
+      "P140",
+      "P141",
+      "P142",
+      "P143",
+      "P144",
+      "P145",
+      "P146",
+      "P147",
+      "P148",
+      "P149",
+      "P150"
+    ],
+    "profiles_missing_pruning_section": [
+      "P041",
+      "P042",
+      "P043",
+      "P044",
+      "P045",
+      "P046",
+      "P047",
+      "P048",
+      "P049",
+      "P050",
+      "P051",
+      "P052",
+      "P053",
+      "P054",
+      "P055",
+      "P056",
+      "P057",
+      "P058",
+      "P059",
+      "P060",
+      "P061",
+      "P062",
+      "P063",
+      "P064",
+      "P065",
+      "P066",
+      "P067",
+      "P068",
+      "P069",
+      "P070",
+      "P071",
+      "P072",
+      "P073",
+      "P074",
+      "P075",
+      "P076",
+      "P077",
+      "P078",
+      "P079",
+      "P080",
+      "P081",
+      "P082",
+      "P083",
+      "P084",
+      "P085",
+      "P086",
+      "P087",
+      "P088",
+      "P089",
+      "P090",
+      "P111",
+      "P112",
+      "P113",
+      "P114",
+      "P115",
+      "P116",
+      "P117",
+      "P118",
+      "P119",
+      "P120",
+      "P121",
+      "P122",
+      "P123",
+      "P124",
+      "P125",
+      "P126",
+      "P127",
+      "P128",
+      "P129",
+      "P130",
+      "P001",
+      "P002",
+      "P003",
+      "P004",
+      "P005",
+      "P006",
+      "P007",
+      "P008",
+      "P009",
+      "P010",
+      "P011",
+      "P012",
+      "P013",
+      "P014",
+      "P015",
+      "P016",
+      "P017",
+      "P018",
+      "P019",
+      "P020",
+      "P021",
+      "P022",
+      "P023",
+      "P024",
+      "P025",
+      "P026",
+      "P027",
+      "P028",
+      "P029",
+      "P030",
+      "P031",
+      "P032",
+      "P033",
+      "P034",
+      "P035",
+      "P036",
+      "P037",
+      "P038",
+      "P039",
+      "P040"
+    ],
+    "source_url_or_identifier_unique_count": 177,
+    "repeated_guidance_patterns": {
+      "climate.notes": [
+        {
+          "text": "توصيات بابل استرشادية؛ حرارة الصيف الجافة، ملوحة ماء الري، نوع التربة والظل الجزئي عوامل حاسمة. لا يعتمد موعد أو معدل ري ثابت دون متابعة الطقس ورطوبة الوسط.",
+          "count": 10
+        },
+        {
+          "text": "إرشادات بابل أولية؛ راقب درجات الحرارة الفعلية وملوحة ماء الري والرياح. لا يعتمد موعد أو معدل ري ثابت دون معرفة الصنف وموقع الزراعة.",
+          "count": 10
+        },
+        {
+          "text": "تتأثر جدوى المحصول في بابل بتوفر مياه الري ونوعيتها والملوحة والصرف ومواعيد الزراعة والصنف. التواريخ الواردة نوافذ إرشادية وليست تقويماً ملزماً.",
+          "count": 10
+        },
+        {
+          "text": "مناخ بابل قاري حار صيفاً وبارد نسبياً شتاءً؛ توقيت الزراعة مرتبط بموعد التعرض لحرارة الصيف لا باسم الشهر فقط. هذه نافذة تخطيطية وليست ضماناً للنجاح.",
+          "count": 10
+        },
+        {
+          "text": "مناخ الحلة حار جاف؛ تجنب تزامن التزهير أو تكوين الجزء الاقتصادي مع ذروة الحر في حزيران–أيلول قدر الإمكان. هذه نوافذ إرشادية وليست ضماناً.",
+          "count": 10
+        },
+        {
+          "text": "في مناخ بابل الحار، التحدي داخل المنازل هو شمس النوافذ والهواء الجاف والتكييف وتذبذب الري. التوصيات تخص نباتات الأصص الداخلية وليست زراعة حقليّة.",
+          "count": 10
+        },
+        {
+          "text": "الزراعة في بابل تعتمد بدرجة كبيرة على الري وتوفر الحصة المائية، مع أثر واضح لحرارة الموسم والإشعاع الشمسي والملوحة والصرف. يجب استخدام بيانات الطقس الفعلية ونشرات الإرشاد المحلية.",
+          "count": 9
+        },
+        {
+          "text": "البيانات المناخية المحلية للحلة تشير إلى صيف شديد الحرارة وجاف جداً، مع أمطار شتوية محدودة ومتفاوتة. تُفضّل الدورات الباردة في الخريف والشتاء، وتُقدّم أو تؤخر المواعيد وفق الصنف وحرارة التربة وتوقعات الأسبوع. تقديرات المناخ التاريخية ليست توقعات آنية ولا ضماناً للنجاح.",
+          "count": 8
+        }
+      ],
+      "irrigation.frequency_guidance": [
+        {
+          "text": "لا تعتمد جدول أيام ثابتاً. افحص رطوبة منطقة الجذور بانتظام؛ قرّب الري في التربة الرملية والحر والرياح، وقلله بعد المطر أو في التربة الثقيلة. حافظ على انتظام الرطوبة خصوصاً خلال تكوين الجزء الاقتصادي.",
+          "count": 8
+        }
+      ],
+      "irrigation.quantity_guidance": [
+        {
+          "text": "تحدد حسب حجم النبات والوعاء وقوام الوسط والحرارة والرياح والصرف؛ تجنب التغدق.",
+          "count": 10
+        },
+        {
+          "text": "لا تُحدد كمية أو عدد ريات ثابت هنا. تحسب الحاجة من ETo × Kc مع بيانات الطقس المحلية ومرحلة النمو وقوام التربة وعمق الجذور وكفاءة الري وEC ماء الري؛ القيم الموسمية العامة في مراجع FAO ليست وصفة ري للحلة ولا بديلاً عن القياس الحقلي.",
+          "count": 10
+        },
+        {
+          "text": "لا توجد كمية يومية ثابتة صالحة لكل حقول بابل. يقدّر الاحتياج من ETc = ETo × Kc عند توفر Kc مناسب، ثم يعدل حسب كفاءة الري والمطر الفعال ورطوبة التربة وعمق الجذور. معاملات FAO-56 قيم مرجعية لمناخ معياري وليست جدول ري محلياً جاهزاً.",
+          "count": 10
+        },
+        {
+          "text": "لا توجد كمية يومية ثابتة صالحة لكل الحقول؛ احسب ETc = ETo × Kc ثم عدّل لكفاءة الري والمطر الفعال ورطوبة التربة وعمق الجذور.",
+          "count": 10
+        },
+        {
+          "text": "لا توجد كمية ثابتة؛ تتحدد بحجم الأصيص ونوع الوسط والجذور والضوء والحرارة. افحص الرطوبة بإصبعك أو أداة قياس قبل الري.",
+          "count": 10
+        },
+        {
+          "text": "لا تحدد كمية ثابتة دون قياس رطوبة التربة وبيانات المناخ وكفاءة نظام الري. لا توجد في هذه النسخة قيمة Kc نوعية محلية معتمدة لهذا السجل في الحلة؛ لا تستنتج Kc من محصول قريب. عند توفر بيانات محطة الطقس احسب ETo × Kc بمصدر مباشر للمحصول والمرحلة، وعاير القرار بقياس رطوبة التربة وكفاءة نظام الري وEC الماء.",
+          "count": 6
+        }
+      ],
+      "soil.ph_range": [
+        {
+          "text": "يفضل قياس pH وEC للتربة/وسط الأصيص وماء الري؛ لا يعتمد رقم موحد لكل الأنواع.",
+          "count": 10
+        },
+        {
+          "text": "لا يحدد رقم موحد دون تحليل؛ يفضل فحص pH وEC ومادة التربة العضوية قبل الزراعة.",
+          "count": 10
+        },
+        {
+          "text": "نطاق قريب من 6.0–7.5 كمرجع عام؛ يثبت بتحليل التربة وتختلف الاستجابة حسب المحصول.",
+          "count": 10
+        },
+        {
+          "text": "يحدد بعد فحص التربة؛ المجال الملائم يتغير باختلاف المحصول والصنف.",
+          "count": 10
+        },
+        {
+          "text": "لا يعتمد مجال pH رقمي موحد لهذه المجموعة؛ استخدم خلطة مخصصة للنوع وتجنب التربة المالحة أو المتصلبة.",
+          "count": 10
+        },
+        {
+          "text": "يفضل قياس pH وEC؛ لا يعتمد مجال رقمي واحد لكل هذه الأنواع. الكاردينيا تحتاج وسطاً حامضياً نسبياً.",
+          "count": 9
+        },
+        {
+          "text": "يفضل غالباً pH يقارب 6.0–7.5؛ قيمة إرشادية عامة وليست قياساً لحقول بابل.",
+          "count": 8
+        },
+        {
+          "text": "6.0–7.5 تقريبي",
+          "count": 6
+        }
+      ]
+    }
+  },
+  "high_priority_findings": [
+    {
+      "id": "AUD-001",
+      "severity": "release_blocker",
+      "finding": "60 profile records remain draft and must not be presented as fully source-checked or approved.",
+      "affected_count": 60,
+      "action": "Keep draft state visible; complete targeted source and agronomic review before public release."
+    },
+    {
+      "id": "AUD-002",
+      "severity": "quality_gap",
+      "finding": "Propagation instructions are absent in all 150 profiles.",
+      "affected_count": 150,
+      "action": "Add species-appropriate propagation data or explicit not_applicable/unknown status."
+    },
+    {
+      "id": "AUD-003",
+      "severity": "quality_gap",
+      "finding": "Pruning section absent in a subset of profiles; missing values should be explicit rather than silently omitted.",
+      "affected_count": 110,
+      "action": "Add applicable pruning guidance or explicit not_applicable."
+    },
+    {
+      "id": "AUD-004",
+      "severity": "taxonomic_review",
+      "finding": "Exact scientific-name duplicates exist; some are valid use/cultivar variants, others are likely aliases or category duplicates.",
+      "affected_count": 8,
+      "action": "Maintain canonical taxon links and distinguish harvest/use profiles from separate taxa."
+    },
+    {
+      "id": "AUD-005",
+      "severity": "release_safety",
+      "finding": "No numeric fertilizer rates and no chemical pesticide controls are populated. This is intentional safety restraint, not missing verified doses.",
+      "affected_count": 457,
+      "action": "Keep rates unset until crop-specific Iraqi label/analysis evidence is available; build calculation workflow later."
+    },
+    {
+      "id": "AUD-006",
+      "severity": "documentation",
+      "finding": "README version heading is stale relative to the database manifest and release.",
+      "affected_count": 1,
+      "action": "Corrected in v1.32.0."
+    }
+  ],
+  "limitations_and_release_decision": {
+    "scientific_fact_check": "This pass checks catalogue integrity, coverage, structural completeness, duplication, evidence metadata and risk controls. It does not claim that every agronomic statement has been independently re-tested against a current primary source or field-trial in Babil.",
+    "local_validation": "No claim of on-farm validation in Babil or certification by a licensed Iraqi agronomist.",
+    "release_status": "NOT_APPROVED_FOR_UNQUALIFIED_PUBLIC_AGRONOMIC_ADVICE",
+    "reason": "Draft profiles, missing propagation data and unresolved taxonomic/varietal identities remain. The application may use the catalogue as an informational draft if review status and uncertainty are displayed."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "release": "MAZRATI integrated v1.5.0",
+  "validation_date": "2026-11-19",
+  "checks": {
+    "javascript_syntax": "PASS",
+    "archive_integrity": "PASS",
+    "plant_index_count": 150,
+    "weather_alerts_use_hillah_cache": true,
+    "stale_weather_cache_suppressed": true,
+    "sensitive_plant_alerts_require_profile_wording": true,
+    "no_automatic_irrigation_or_spraying": true
+  },
+  "not_tested": [
+    "Live WeatherAPI request (no key configured)",
+    "browser push notifications",
+    "field performance / agronomic validation"
+  ],
+  "known_limits": [
+    "35 C threshold is a conservative heuristic, not crop-specific threshold",
+    "weather alerts refresh only after fetching weather and rendering dashboard",
+    "weather API requires WEATHERAPI_KEY on Vercel or compatible serverless host"
+  ]
+}

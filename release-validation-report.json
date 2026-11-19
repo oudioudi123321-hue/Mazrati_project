@@ -1,0 +1,42 @@
+{
+  "dataset": "MAZRATI",
+  "version": "1.32.0",
+  "validation_date": "2026-11-19",
+  "checks": {
+    "plant_count": 150,
+    "profile_count": 150,
+    "unique_profile_ids": 150,
+    "duplicate_profile_ids": [],
+    "schema_errors": 0,
+    "schema_error_examples": [],
+    "index_profile_identity_mismatches": [],
+    "unregistered_profile_sources": [],
+    "json_files_parse": true,
+    "batch_014_identity_matches": 10,
+    "source_registry_count": 192,
+    "batch_015_identity_matches": 10,
+    "fertilization_entries_with_numeric_rate_or_unit": 0,
+    "nonempty_chemical_control_entries": 0
+  },
+  "limitations": [
+    "لا توجد تجارب منزلية مضبوطة في بابل؛ المراجع خارجية وتستخدم كإرشاد عام.",
+    "P134 Dracaena spp. غير محدد النوع؛ لا تقدم توصية نوعية قبل التحديد.",
+    "جرعات التسميد الرقمية تبقى null وتعتمد على المنتج والملصق والنمو الفعلي.",
+    "المبيدات الكيميائية غير مدرجة؛ يلزم تحقق التسجيل والملصق العراقي.",
+    "تحذيرات السمية عامة وتستدعي الاتصال بالطبيب/البيطري عند الابتلاع أو الأعراض الخطرة.",
+    "P141/P146 remain duplicate broad Goeppertia trade/group records pending cultivar identification.",
+    "P149 is the same Aloe vera taxon as P130 and is linked as an alias.",
+    "P150 is mixed Cactaceae at family level; no single care schedule is valid for all members.",
+    "No field validation or local Babil horticulturist sign-off."
+  ],
+  "full_catalogue_audit": {
+    "catalogue_count": 150,
+    "profile_count": 150,
+    "identity_mismatches": 0,
+    "draft_profiles": 60,
+    "missing_propagation_profiles": 150,
+    "missing_pruning_profiles": 110,
+    "duplicate_scientific_name_groups": 8,
+    "release_status": "NOT_APPROVED_FOR_UNQUALIFIED_PUBLIC_AGRONOMIC_ADVICE"
+  }
+}

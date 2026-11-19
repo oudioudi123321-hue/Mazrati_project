@@ -1,0 +1,19 @@
+{
+  "version": "1.8.3",
+  "date": "2026-11-19",
+  "checks": {
+    "profile_files_loaded": true,
+    "unique_plant_ids": true,
+    "all_profiles_have_problem_entries": true,
+    "problem_records_aggregated": true,
+    "disease_page_renderer_added": true,
+    "search_and_filters_added": true,
+    "json_guide_valid": true,
+    "no_unverified_chemical_recommendations": true
+  },
+  "limitations": [
+    "No browser/mobile end-to-end test performed.",
+    "Source profile content remains preliminary and requires local agronomist review.",
+    "No Iraqi pesticide registration or label verification performed."
+  ]
+}
